@@ -1,0 +1,1602 @@
+[
+  {
+    "infinitive": "Ski fahren",
+    "present": "er fährt Ski",
+    "past": "er ist Ski gefahren",
+    "translation": {
+      "en": "to ski",
+      "ru": "кататься на лыжах"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "abfahren",
+    "present": "er fährt ab",
+    "past": "er ist abgefahren",
+    "translation": {
+      "en": "to depart, to leave",
+      "ru": "отправляться, уезжать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ablesen",
+    "present": "er liest ab",
+    "past": "er hat abgelesen",
+    "translation": {
+      "en": "to read off, to read from",
+      "ru": "считывать, зачитывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "abnehmen",
+    "present": "er nimmt ab",
+    "past": "er hat abgenommen",
+    "translation": {
+      "en": "to lose weight, to take off, to decrease",
+      "ru": "худеть, снимать, уменьшаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "abrufen",
+    "present": "er ruft ab",
+    "past": "er hat abgerufen",
+    "translation": {
+      "en": "to retrieve, to call up",
+      "ru": "вызывать, запрашивать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "abschließen",
+    "present": "er schließt ab",
+    "past": "er hat abgeschlossen",
+    "translation": {
+      "en": "to lock, to conclude",
+      "ru": "запирать, заканчивать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "anbraten",
+    "present": "er brät an",
+    "past": "er hat angebraten",
+    "translation": {
+      "en": "to fry, to sear",
+      "ru": "обжаривать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "anfangen",
+    "present": "er fängt an",
+    "past": "er hat angefangen",
+    "translation": {
+      "en": "to begin, to start",
+      "ru": "начинать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ankommen",
+    "present": "er kommt an",
+    "past": "er ist angekommen",
+    "translation": {
+      "en": "to arrive",
+      "ru": "прибывать, приезжать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "anrufen",
+    "present": "er ruft an",
+    "past": "er hat angerufen",
+    "translation": {
+      "en": "to call, to phone",
+      "ru": "звонить по телефону"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "anschreiben",
+    "present": "er schreibt an",
+    "past": "er hat angeschrieben",
+    "translation": {
+      "en": "to write to",
+      "ru": "писать кому-либо"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ansehen",
+    "present": "er sieht an",
+    "past": "er hat angesehen",
+    "translation": {
+      "en": "to look at, to watch",
+      "ru": "смотреть, осматривать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ansprechen",
+    "present": "er spricht an",
+    "past": "er hat angesprochen",
+    "translation": {
+      "en": "to address, to speak to",
+      "ru": "обращаться, заговаривать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "anstoßen",
+    "present": "sie stoßen an",
+    "past": "sie haben angestoßen",
+    "translation": {
+      "en": "to toast, to bump into",
+      "ru": "чокаться, толкать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "anziehen (sich)",
+    "present": "er zieht sich an",
+    "past": "er hat sich angezogen",
+    "translation": {
+      "en": "to get dressed, to put on",
+      "ru": "одеваться, надевать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "aufessen",
+    "present": "er isst auf",
+    "past": "er hat aufgegessen",
+    "translation": {
+      "en": "to eat up",
+      "ru": "съедать, доедать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "auffallen",
+    "present": "er fällt auf",
+    "past": "er ist aufgefallen",
+    "translation": {
+      "en": "to stand out, to be noticeable",
+      "ru": "бросаться в глаза, быть заметным"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "aufgeben",
+    "present": "er gibt auf",
+    "past": "er hat aufgegeben",
+    "translation": {
+      "en": "to give up",
+      "ru": "сдаваться, отказываться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "aufschlagen",
+    "present": "er schlägt auf",
+    "past": "er hat aufgeschlagen",
+    "translation": {
+      "en": "to open (a book), to pitch (a tent)",
+      "ru": "открывать (книгу), разбивать (палатку)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "aufstehen",
+    "present": "er steht auf",
+    "past": "er ist aufgestanden",
+    "translation": {
+      "en": "to get up, to stand up",
+      "ru": "вставать, подниматься"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "auftreten",
+    "present": "er tritt auf",
+    "past": "er ist aufgetreten",
+    "translation": {
+      "en": "to appear, to perform",
+      "ru": "выступать, появляться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ausgehen",
+    "present": "er geht aus",
+    "past": "er ist ausgegangen",
+    "translation": {
+      "en": "to go out",
+      "ru": "выходить (гулять)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ausleihen",
+    "present": "er leiht aus",
+    "past": "er hat ausgeliehen",
+    "translation": {
+      "en": "to borrow, to lend",
+      "ru": "брать взаймы, давать взаймы"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ausschlafen",
+    "present": "er schläft aus",
+    "past": "er hat ausgeschlafen",
+    "translation": {
+      "en": "to sleep in",
+      "ru": "высыпаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "aussehen",
+    "present": "er sieht aus",
+    "past": "er hat ausgesehen",
+    "translation": {
+      "en": "to look, to appear",
+      "ru": "выглядеть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "aussteigen",
+    "present": "er steigt aus",
+    "past": "er ist ausgestiegen",
+    "translation": {
+      "en": "to get off, to get out",
+      "ru": "выходить из транспорта"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ausziehen (etw.)",
+    "present": "er zieht etw. aus",
+    "past": "er hat etw. ausgezogen",
+    "translation": {
+      "en": "to take off (something), to move out",
+      "ru": "снимать (что-либо), выезжать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "backen",
+    "present": "er backt/bäckt",
+    "past": "er hat gebacken",
+    "translation": {
+      "en": "to bake",
+      "ru": "печь"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "beginnen",
+    "present": "er beginnt",
+    "past": "er hat begonnen",
+    "translation": {
+      "en": "to begin",
+      "ru": "начинать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "bekommen",
+    "present": "er bekommt",
+    "past": "er hat bekommen",
+    "translation": {
+      "en": "to get, to receive",
+      "ru": "получать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "benutzen",
+    "present": "er benutzt",
+    "past": "er hat benutzt",
+    "translation": {
+      "en": "to use",
+      "ru": "использовать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "beraten",
+    "present": "er berät",
+    "past": "er hat beraten",
+    "translation": {
+      "en": "to advise",
+      "ru": "советовать, консультировать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "beschließen",
+    "present": "er beschließt",
+    "past": "er hat beschlossen",
+    "translation": {
+      "en": "to decide",
+      "ru": "решать, принимать решение"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "beschreiben",
+    "present": "er beschreibt",
+    "past": "er hat beschrieben",
+    "translation": {
+      "en": "to describe",
+      "ru": "описывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "besprechen",
+    "present": "er bespricht",
+    "past": "er hat besprochen",
+    "translation": {
+      "en": "to discuss",
+      "ru": "обсуждать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "betragen",
+    "present": "etw. beträgt",
+    "past": "etw. hat betragen",
+    "translation": {
+      "en": "to amount to",
+      "ru": "составлять (сумму)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "betreiben",
+    "present": "er betreibt",
+    "past": "er hat betrieben",
+    "translation": {
+      "en": "to operate, to run",
+      "ru": "заниматься, вести (дело)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "betreten",
+    "present": "er betritt",
+    "past": "er hat betreten",
+    "translation": {
+      "en": "to enter",
+      "ru": "входить, ступать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "bewerben (sich)",
+    "present": "er bewirbt sich",
+    "past": "er hat sich beworben",
+    "translation": {
+      "en": "to apply",
+      "ru": "подавать заявление (о приеме)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "bieten",
+    "present": "er bietet",
+    "past": "er hat geboten",
+    "translation": {
+      "en": "to offer",
+      "ru": "предлагать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "binden",
+    "present": "er bindet",
+    "past": "er hat gebunden",
+    "translation": {
+      "en": "to tie, to bind",
+      "ru": "связывать, завязывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "bitten",
+    "present": "er bittet",
+    "past": "er hat gebeten",
+    "translation": {
+      "en": "to ask, to request",
+      "ru": "просить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "bleiben",
+    "present": "er bleibt",
+    "past": "er ist geblieben",
+    "translation": {
+      "en": "to stay",
+      "ru": "оставаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "brechen",
+    "present": "er bricht",
+    "past": "er hat gebrochen",
+    "translation": {
+      "en": "to break",
+      "ru": "ломать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "brennen",
+    "present": "er brennt",
+    "past": "er hat gebrannt",
+    "translation": {
+      "en": "to burn",
+      "ru": "гореть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "bringen",
+    "present": "er bringt",
+    "past": "er hat gebracht",
+    "translation": {
+      "en": "to bring",
+      "ru": "приносить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "denken",
+    "present": "er denkt",
+    "past": "er hat gedacht",
+    "translation": {
+      "en": "to think",
+      "ru": "думать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "dürfen",
+    "present": "er darf",
+    "past": "er durfte (Präteritum)",
+    "translation": {
+      "en": "to be allowed to, may",
+      "ru": "мочь (иметь разрешение)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "einladen",
+    "present": "er lädt ein",
+    "past": "er hat eingeladen",
+    "translation": {
+      "en": "to invite",
+      "ru": "приглашать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "einreiben",
+    "present": "er reibt ein",
+    "past": "er hat eingerieben",
+    "translation": {
+      "en": "to rub in",
+      "ru": "втирать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "entfallen",
+    "present": "es entfällt",
+    "past": "es ist entfallen",
+    "translation": {
+      "en": "to be cancelled, to slip one's mind",
+      "ru": "выпадать (из памяти), отменяться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "entscheiden (sich)",
+    "present": "er entscheidet sich",
+    "past": "er hat sich entschieden",
+    "translation": {
+      "en": "to decide",
+      "ru": "решать, решаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "erfinden",
+    "present": "er erfindet",
+    "past": "er hat erfunden",
+    "translation": {
+      "en": "to invent",
+      "ru": "изобретать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "erschrecken (sich)",
+    "present": "er erschreckt sich",
+    "past": "er hat sich erschrocken",
+    "translation": {
+      "en": "to be frightened, to get a scare",
+      "ru": "пугаться, испугаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "essen",
+    "present": "er isst",
+    "past": "er hat gegessen",
+    "translation": {
+      "en": "to eat",
+      "ru": "есть, кушать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "fahren",
+    "present": "er fährt",
+    "past": "er ist gefahren",
+    "translation": {
+      "en": "to drive, to go",
+      "ru": "ехать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "fallen",
+    "present": "er fällt",
+    "past": "er ist gefallen",
+    "translation": {
+      "en": "to fall",
+      "ru": "падать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "fernsehen",
+    "present": "er sieht fern",
+    "past": "er hat ferngesehen",
+    "translation": {
+      "en": "to watch TV",
+      "ru": "смотреть телевизор"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "feststehen",
+    "present": "es steht fest",
+    "past": "es hat festgestanden",
+    "translation": {
+      "en": "to be certain, to be established",
+      "ru": "быть установленным"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "finden",
+    "present": "er findet",
+    "past": "er hat gefunden",
+    "translation": {
+      "en": "to find",
+      "ru": "находить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "fliegen",
+    "present": "er fliegt",
+    "past": "er ist geflogen",
+    "translation": {
+      "en": "to fly",
+      "ru": "летать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "geben",
+    "present": "er gibt",
+    "past": "er hat gegeben",
+    "translation": {
+      "en": "to give",
+      "ru": "давать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "gefallen",
+    "present": "es gefällt",
+    "past": "es hat gefallen",
+    "translation": {
+      "en": "to please, to be liked",
+      "ru": "нравиться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "gehen",
+    "present": "er geht",
+    "past": "er ist gegangen",
+    "translation": {
+      "en": "to go",
+      "ru": "идти"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "gelten",
+    "present": "es gilt",
+    "past": "es hat gegolten",
+    "translation": {
+      "en": "to be valid",
+      "ru": "считаться, быть действительным"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "genießen",
+    "present": "er genießt",
+    "past": "er hat genossen",
+    "translation": {
+      "en": "to enjoy",
+      "ru": "наслаждаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "gewinnen",
+    "present": "er gewinnt",
+    "past": "er hat gewonnen",
+    "translation": {
+      "en": "to win",
+      "ru": "выигрывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "haben",
+    "present": "er hat",
+    "past": "er hatte (Präteritum)",
+    "translation": {
+      "en": "to have",
+      "ru": "иметь"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "halten",
+    "present": "er hält",
+    "past": "er hat gehalten",
+    "translation": {
+      "en": "to hold, to stop",
+      "ru": "держать, останавливаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "heben",
+    "present": "er hebt",
+    "past": "er hat gehoben",
+    "translation": {
+      "en": "to lift",
+      "ru": "поднимать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "heißen",
+    "present": "er heißt",
+    "past": "er hat geheißen",
+    "translation": {
+      "en": "to be called",
+      "ru": "называться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "helfen",
+    "present": "er hilft",
+    "past": "er hat geholfen",
+    "translation": {
+      "en": "to help",
+      "ru": "помогать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "herunterladen",
+    "present": "er lädt herunter",
+    "past": "er hat heruntergeladen",
+    "translation": {
+      "en": "to download",
+      "ru": "скачивать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "hinfliegen",
+    "present": "er fliegt hin",
+    "past": "er ist hingeflogen",
+    "translation": {
+      "en": "to fly there",
+      "ru": "лететь туда"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "hinterlassen",
+    "present": "er hinterlässt",
+    "past": "er hat hinterlassen",
+    "translation": {
+      "en": "to leave behind",
+      "ru": "оставлять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "hängen",
+    "present": "es hängt",
+    "past": "es hat gehangen",
+    "translation": {
+      "en": "to hang",
+      "ru": "висеть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "kaputtgehen",
+    "present": "es geht kaputt",
+    "past": "es ist kaputtgegangen",
+    "translation": {
+      "en": "to break down",
+      "ru": "ломаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "kennen",
+    "present": "er kennt",
+    "past": "er hat gekannt",
+    "translation": {
+      "en": "to know",
+      "ru": "знать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "klingen",
+    "present": "es klingt",
+    "past": "es hat geklungen",
+    "translation": {
+      "en": "to sound",
+      "ru": "звучать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "kommen",
+    "present": "er kommt",
+    "past": "er ist gekommen",
+    "translation": {
+      "en": "to come",
+      "ru": "приходить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "können",
+    "present": "er kann",
+    "past": "er konnte (Präteritum)",
+    "translation": {
+      "en": "can, to be able to",
+      "ru": "мочь, уметь"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "lassen",
+    "present": "er lässt",
+    "past": "er hat gelassen",
+    "translation": {
+      "en": "to let, to leave",
+      "ru": "оставлять, позволять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "laufen",
+    "present": "er läuft",
+    "past": "er ist gelaufen",
+    "translation": {
+      "en": "to run",
+      "ru": "бежать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "leidtun",
+    "present": "es tut leid",
+    "past": "es hat leidgetan",
+    "translation": {
+      "en": "to be sorry",
+      "ru": "сожалеть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "lesen",
+    "present": "er liest",
+    "past": "er hat gelesen",
+    "translation": {
+      "en": "to read",
+      "ru": "читать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "liegen",
+    "present": "es liegt",
+    "past": "es hat gelegen",
+    "translation": {
+      "en": "to lie",
+      "ru": "лежать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "mitbringen",
+    "present": "er bringt mit",
+    "past": "er hat mitgebracht",
+    "translation": {
+      "en": "to bring along",
+      "ru": "приносить с собой"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "mitkommen",
+    "present": "er kommt mit",
+    "past": "er ist mitgekommen",
+    "translation": {
+      "en": "to come along",
+      "ru": "идти с кем-либо"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "mitnehmen",
+    "present": "er nimmt mit",
+    "past": "er hat mitgenommen",
+    "translation": {
+      "en": "to take with",
+      "ru": "брать с собой"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "mögen",
+    "present": "er mag",
+    "past": "er mochte (Präteritum)",
+    "translation": {
+      "en": "to like",
+      "ru": "любить, нравиться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "müssen",
+    "present": "er muss",
+    "past": "er musste (Präteritum)",
+    "translation": {
+      "en": "must, to have to",
+      "ru": "быть должным"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "nachschlagen",
+    "present": "er schlägt nach",
+    "past": "er hat nachgeschlagen",
+    "translation": {
+      "en": "to look up",
+      "ru": "искать (в словаре)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "nehmen",
+    "present": "er nimmt",
+    "past": "er hat genommen",
+    "translation": {
+      "en": "to take",
+      "ru": "брать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "nennen",
+    "present": "er nennt",
+    "past": "er hat genannt",
+    "translation": {
+      "en": "to name, to call",
+      "ru": "называть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "raten",
+    "present": "er rät",
+    "past": "er hat geraten",
+    "translation": {
+      "en": "to advise, to guess",
+      "ru": "советовать, угадывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "rufen",
+    "present": "er ruft",
+    "past": "er hat gerufen",
+    "translation": {
+      "en": "to call, to shout",
+      "ru": "звать, кричать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "schlafen",
+    "present": "er schläft",
+    "past": "er hat geschlafen",
+    "translation": {
+      "en": "to sleep",
+      "ru": "спать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "schließen",
+    "present": "er schließt",
+    "past": "er hat geschlossen",
+    "translation": {
+      "en": "to close",
+      "ru": "закрывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "schneiden",
+    "present": "er schneidet",
+    "past": "er hat geschnitten",
+    "translation": {
+      "en": "to cut",
+      "ru": "резать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "schreiben",
+    "present": "er schreibt",
+    "past": "er hat geschrieben",
+    "translation": {
+      "en": "to write",
+      "ru": "писать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "schwimmen",
+    "present": "er schwimmt",
+    "past": "er ist geschwommen",
+    "translation": {
+      "en": "to swim",
+      "ru": "плавать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "sehen",
+    "present": "er sieht",
+    "past": "er hat gesehen",
+    "translation": {
+      "en": "to see",
+      "ru": "видеть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "sein",
+    "present": "er ist",
+    "past": "er war (Präteritum)",
+    "translation": {
+      "en": "to be",
+      "ru": "быть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "singen",
+    "present": "er singt",
+    "past": "er hat gesungen",
+    "translation": {
+      "en": "to sing",
+      "ru": "петь"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "sitzen",
+    "present": "er sitzt",
+    "past": "er hat gesessen",
+    "translation": {
+      "en": "to sit",
+      "ru": "сидеть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "spazieren gehen",
+    "present": "er geht spazieren",
+    "past": "er ist spazieren gegangen",
+    "translation": {
+      "en": "to go for a walk",
+      "ru": "гулять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "sprechen",
+    "present": "er spricht",
+    "past": "er hat gesprochen",
+    "translation": {
+      "en": "to speak",
+      "ru": "говорить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "stattfinden",
+    "present": "es findet statt",
+    "past": "es hat stattgefunden",
+    "translation": {
+      "en": "to take place",
+      "ru": "состояться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "stehen",
+    "present": "er steht",
+    "past": "er hat gestanden",
+    "translation": {
+      "en": "to stand",
+      "ru": "стоять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "steigen",
+    "present": "er steigt",
+    "past": "er ist gestiegen",
+    "translation": {
+      "en": "to climb, to rise",
+      "ru": "подниматься"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "sterben",
+    "present": "er stirbt",
+    "past": "er ist gestorben",
+    "translation": {
+      "en": "to die",
+      "ru": "умирать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "stoßen",
+    "present": "er stößt",
+    "past": "er hat gestoßen",
+    "translation": {
+      "en": "to push, to bump",
+      "ru": "толкать, ударять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "teilnehmen",
+    "present": "er nimmt teil",
+    "past": "er hat teilgenommen",
+    "translation": {
+      "en": "to participate",
+      "ru": "принимать участие"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "tragen",
+    "present": "er trägt",
+    "past": "er hat getragen",
+    "translation": {
+      "en": "to carry, to wear",
+      "ru": "носить, нести"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "treffen",
+    "present": "er trifft",
+    "past": "er hat getroffen",
+    "translation": {
+      "en": "to meet",
+      "ru": "встречать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "trinken",
+    "present": "er trinkt",
+    "past": "er hat getrunken",
+    "translation": {
+      "en": "to drink",
+      "ru": "пить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "tun",
+    "present": "er tut",
+    "past": "er hat getan",
+    "translation": {
+      "en": "to do",
+      "ru": "делать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "umsteigen",
+    "present": "er steigt um",
+    "past": "er ist umgestiegen",
+    "translation": {
+      "en": "to change (trains, etc.)",
+      "ru": "пересаживаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "umziehen",
+    "present": "er zieht um",
+    "past": "er ist umgezogen",
+    "translation": {
+      "en": "to move (house)",
+      "ru": "переезжать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "unterbrechen",
+    "present": "er unterbricht",
+    "past": "er hat unterbrochen",
+    "translation": {
+      "en": "to interrupt",
+      "ru": "прерывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "unterhalten (sich)",
+    "present": "er unterhält sich",
+    "past": "er hat sich unterhalten",
+    "translation": {
+      "en": "to converse, to entertain oneself",
+      "ru": "беседовать, развлекаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "unternehmen",
+    "present": "er unternimmt",
+    "past": "er hat unternommen",
+    "translation": {
+      "en": "to undertake",
+      "ru": "предпринимать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verbieten",
+    "present": "er verbietet",
+    "past": "er hat verboten",
+    "translation": {
+      "en": "to forbid",
+      "ru": "запрещать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verbinden",
+    "present": "er verbindet",
+    "past": "er hat verbunden",
+    "translation": {
+      "en": "to connect, to link",
+      "ru": "соединять, связывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verbrennen",
+    "present": "er verbrennt",
+    "past": "er ist verbrannt",
+    "translation": {
+      "en": "to burn",
+      "ru": "сжигать, сгорать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verbringen",
+    "present": "er verbringt",
+    "past": "er hat verbracht",
+    "translation": {
+      "en": "to spend (time)",
+      "ru": "проводить (время)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vergehen",
+    "present": "er vergeht",
+    "past": "er ist vergangen",
+    "translation": {
+      "en": "to pass (time)",
+      "ru": "проходить (о времени)"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vergessen",
+    "present": "er vergisst",
+    "past": "er hat vergessen",
+    "translation": {
+      "en": "to forget",
+      "ru": "забывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vergleichen",
+    "present": "er vergleicht",
+    "past": "er hat verglichen",
+    "translation": {
+      "en": "to compare",
+      "ru": "сравнивать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verlassen",
+    "present": "er verlässt",
+    "past": "er hat verlassen",
+    "translation": {
+      "en": "to leave",
+      "ru": "покидать, оставлять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verlieren",
+    "present": "er verliert",
+    "past": "er hat verloren",
+    "translation": {
+      "en": "to lose",
+      "ru": "терять, проигрывать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verschlafen",
+    "present": "er verschläft",
+    "past": "er hat verschlafen",
+    "translation": {
+      "en": "to oversleep",
+      "ru": "проспать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verschreiben",
+    "present": "er verschreibt",
+    "past": "er hat verschrieben",
+    "translation": {
+      "en": "to prescribe, to miswrite",
+      "ru": "прописывать (лекарство), делать описку"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "verstehen",
+    "present": "er versteht",
+    "past": "er hat verstanden",
+    "translation": {
+      "en": "to understand",
+      "ru": "понимать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vertreiben",
+    "present": "er vertreibt",
+    "past": "er hat vertrieben",
+    "translation": {
+      "en": "to drive away, to expel",
+      "ru": "прогонять, изгонять"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vorbeifahren",
+    "present": "er fährt vorbei",
+    "past": "er ist vorbeigefahren",
+    "translation": {
+      "en": "to drive past",
+      "ru": "проезжать мимо"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vorbeilaufen",
+    "present": "er läuft vorbei",
+    "past": "er ist vorbeigelaufen",
+    "translation": {
+      "en": "to run past",
+      "ru": "пробегать мимо"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vorkommen",
+    "present": "es kommt vor",
+    "past": "es ist vorgekommen",
+    "translation": {
+      "en": "to occur, to happen",
+      "ru": "случаться, происходить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "vorlesen",
+    "present": "er liest vor",
+    "past": "er hat vorgelesen",
+    "translation": {
+      "en": "to read aloud",
+      "ru": "читать вслух"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "wachsen",
+    "present": "er wächst",
+    "past": "er ist gewachsen",
+    "translation": {
+      "en": "to grow",
+      "ru": "расти"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "waschen",
+    "present": "er wäscht",
+    "past": "er hat gewaschen",
+    "translation": {
+      "en": "to wash",
+      "ru": "мыть, стирать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "wehtun",
+    "present": "es tut weh",
+    "past": "es hat wehgetan",
+    "translation": {
+      "en": "to hurt",
+      "ru": "болеть, причинять боль"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "weitergehen",
+    "present": "es geht weiter",
+    "past": "es ist weitergegangen",
+    "translation": {
+      "en": "to go on, to continue",
+      "ru": "продолжать идти, продолжаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "wissen",
+    "present": "er weiß",
+    "past": "er hat gewusst",
+    "translation": {
+      "en": "to know",
+      "ru": "знать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "wollen",
+    "present": "er will",
+    "past": "er wollte (Präteritum)",
+    "translation": {
+      "en": "to want",
+      "ru": "хотеть"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "ziehen",
+    "present": "er zieht",
+    "past": "er ist gezogen",
+    "translation": {
+      "en": "to pull, to move",
+      "ru": "тянуть, тащить, переезжать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zunehmen",
+    "present": "es nimmt zu",
+    "past": "es hat zugenommen",
+    "translation": {
+      "en": "to increase, to gain weight",
+      "ru": "увеличиваться, прибавлять в весе"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurechtfinden (sich)",
+    "present": "er findet sich zurecht",
+    "past": "er hat sich zurechtgefunden",
+    "translation": {
+      "en": "to find one's way around",
+      "ru": "ориентироваться, разбираться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurechtkommen",
+    "present": "er kommt zurecht",
+    "past": "er ist zurechtgekommen",
+    "translation": {
+      "en": "to cope, to get by",
+      "ru": "справляться, обходиться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurückbekommen (etw.)",
+    "present": "er bekommt etw. zurück",
+    "past": "er hat etw. zurückbekommen",
+    "translation": {
+      "en": "to get back",
+      "ru": "получать обратно"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurückdenken",
+    "present": "er denkt zurück",
+    "past": "er hat zurückgedacht",
+    "translation": {
+      "en": "to think back",
+      "ru": "вспоминать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurückgehen",
+    "present": "er geht zurück",
+    "past": "er ist zurückgegangen",
+    "translation": {
+      "en": "to go back",
+      "ru": "возвращаться, идти назад"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurückkommen",
+    "present": "er kommt zurück",
+    "past": "er ist zurückgekommen",
+    "translation": {
+      "en": "to come back",
+      "ru": "возвращаться"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurücknehmen (etw.)",
+    "present": "er nimmt etw. zurück",
+    "past": "er hat etw. zurückgenommen",
+    "translation": {
+      "en": "to take back",
+      "ru": "брать обратно"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zurückrufen",
+    "present": "er ruft zurück",
+    "past": "er hat zurückgerufen",
+    "translation": {
+      "en": "to call back",
+      "ru": "перезванивать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zusammenhalten",
+    "present": "sie halten zusammen",
+    "past": "sie haben zusammengehalten",
+    "translation": {
+      "en": "to stick together",
+      "ru": "держаться вместе"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "zusammenschlagen",
+    "present": "er schlägt zusammen",
+    "past": "er hat zusammengeschlagen",
+    "translation": {
+      "en": "to strike together, to knock together",
+      "ru": "сшибать, бить"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "überfliegen",
+    "present": "er überfliegt",
+    "past": "er hat überflogen",
+    "translation": {
+      "en": "to fly over, to skim",
+      "ru": "перелетать, пробегать глазами"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "übernehmen",
+    "present": "er übernimmt",
+    "past": "er hat übernommen",
+    "translation": {
+      "en": "to take over",
+      "ru": "брать на себя, перенимать"
+    },
+    "examples": null
+  },
+  {
+    "infinitive": "übertragen",
+    "present": "er überträgt",
+    "past": "er hat übertragen",
+    "translation": {
+      "en": "to transfer, to broadcast",
+      "ru": "передавать, транслировать"
+    },
+    "examples": null
+  }
+]
