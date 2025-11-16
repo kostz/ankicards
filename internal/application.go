@@ -137,7 +137,7 @@ func (a *Application) AddVerbExamples() {
 				fmt.Sprintf("%d/%d; %d/%d", lvl, len(Levels), cnt, len(a.result[level])),
 				zap.Error(err),
 			)
-			if err != nil {
+			if err == nil {
 				a.result[level][idx] = curr
 			}
 		}
