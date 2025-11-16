@@ -7,7 +7,22 @@
       "en": "to ski",
       "ru": "кататься на лыжах"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Im Winter fährt er oft Ski in den Alpen.",
+        "translation": {
+          "en": "In winter, he often goes skiing in the Alps.",
+          "ru": "Зимой он часто катается на лыжах в Альпах."
+        }
+      },
+      {
+        "sentence": "Letztes Wochenende ist er mit seinen Freunden Ski gefahren.",
+        "translation": {
+          "en": "Last weekend he went skiing with his friends.",
+          "ru": "На прошлых выходных он катался на лыжах со своими друзьями."
+        }
+      }
+    ]
   },
   {
     "infinitive": "abfahren",
@@ -17,7 +32,22 @@
       "en": "to depart, to leave",
       "ru": "отправляться, уезжать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Zug fährt pünktlich um 8 Uhr ab.",
+        "translation": {
+          "en": "The train departs punctually at 8 o'clock.",
+          "ru": "Поезд отправляется ровно в 8 часов."
+        }
+      },
+      {
+        "sentence": "Als wir am Bahnhof ankamen, war der Zug schon abgefahren.",
+        "translation": {
+          "en": "When we arrived at the station, the train had already departed.",
+          "ru": "Когда мы прибыли на вокзал, поезд уже ушел."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ablesen",
@@ -27,7 +57,22 @@
       "en": "to read off, to read from",
       "ru": "считывать, зачитывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Techniker liest die Daten vom Messgerät ab.",
+        "translation": {
+          "en": "The technician reads the data from the measuring device.",
+          "ru": "Техник считывает данные с измерительного прибора."
+        }
+      },
+      {
+        "sentence": "Er hat den Zählerstand gestern abgelesen.",
+        "translation": {
+          "en": "He read the meter reading yesterday.",
+          "ru": "Он вчера снял показания счетчика."
+        }
+      }
+    ]
   },
   {
     "infinitive": "abnehmen",
@@ -37,7 +82,22 @@
       "en": "to lose weight, to take off, to decrease",
       "ru": "худеть, снимать, уменьшаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er nimmt jede Woche ein Pfund ab.",
+        "translation": {
+          "en": "He loses one pound every week.",
+          "ru": "Он худеет на один фунт каждую неделю."
+        }
+      },
+      {
+        "sentence": "Sie hat den Hörer abgenommen.",
+        "translation": {
+          "en": "She picked up the receiver.",
+          "ru": "Она сняла трубку."
+        }
+      }
+    ]
   },
   {
     "infinitive": "abrufen",
@@ -47,7 +107,22 @@
       "en": "to retrieve, to call up",
       "ru": "вызывать, запрашивать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Benutzer ruft die Daten aus der Datenbank ab.",
+        "translation": {
+          "en": "The user retrieves the data from the database.",
+          "ru": "Пользователь запрашивает данные из базы данных."
+        }
+      },
+      {
+        "sentence": "Sie hat die E-Mails gestern abgerufen.",
+        "translation": {
+          "en": "She retrieved the e-mails yesterday.",
+          "ru": "Она запросила электронные письма вчера."
+        }
+      }
+    ]
   },
   {
     "infinitive": "abschließen",
@@ -57,7 +132,22 @@
       "en": "to lock, to conclude",
       "ru": "запирать, заканчивать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er schließt die Tür ab.",
+        "translation": {
+          "en": "He locks the door.",
+          "ru": "Он запирает дверь."
+        }
+      },
+      {
+        "sentence": "Er hat sein Studium abgeschlossen.",
+        "translation": {
+          "en": "He has completed his studies.",
+          "ru": "Он закончил свое обучение."
+        }
+      }
+    ]
   },
   {
     "infinitive": "anbraten",
@@ -67,7 +157,22 @@
       "en": "to fry, to sear",
       "ru": "обжаривать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Koch brät das Fleisch von beiden Seiten an.",
+        "translation": {
+          "en": "The chef sears the meat on both sides.",
+          "ru": "Повар обжаривает мясо с обеих сторон."
+        }
+      },
+      {
+        "sentence": "Er hat das Hähnchen goldbraun angebraten.",
+        "translation": {
+          "en": "He fried the chicken until it was golden brown.",
+          "ru": "Он обжарил курицу до золотистой корочки."
+        }
+      }
+    ]
   },
   {
     "infinitive": "anfangen",
@@ -77,7 +182,22 @@
       "en": "to begin, to start",
       "ru": "начинать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Film fängt in fünf Minuten an.",
+        "translation": {
+          "en": "The movie starts in five minutes.",
+          "ru": "Фильм начнется через пять минут."
+        }
+      },
+      {
+        "sentence": "Sie hat mit einem neuen Buch angefangen.",
+        "translation": {
+          "en": "She has started a new book.",
+          "ru": "Она начала новую книгу."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ankommen",
@@ -87,17 +207,22 @@
       "en": "to arrive",
       "ru": "прибывать, приезжать"
     },
-    "examples": null
-  },
-  {
-    "infinitive": "anrufen",
-    "present": "er ruft an",
-    "past": "er hat angerufen",
-    "translation": {
-      "en": "to call, to phone",
-      "ru": "звонить по телефону"
-    },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Zug kommt um 15 Uhr am Bahnhof an.",
+        "translation": {
+          "en": "The train arrives at the station at 3 PM.",
+          "ru": "Поезд прибывает на вокзал в 15 часов."
+        }
+      },
+      {
+        "sentence": "Gestern ist er sicher zu Hause angekommen.",
+        "translation": {
+          "en": "Yesterday he arrived home safely.",
+          "ru": "Вчера он благополучно прибыл домой."
+        }
+      }
+    ]
   },
   {
     "infinitive": "anschreiben",
@@ -107,7 +232,22 @@
       "en": "to write to",
       "ru": "писать кому-либо"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er schreibt die Behörde an, um Informationen zu erhalten.",
+        "translation": {
+          "en": "He writes to the authority to receive information.",
+          "ru": "Он пишет в ведомство, чтобы получить информацию."
+        }
+      },
+      {
+        "sentence": "Ich habe dich gestern angeschrieben, aber du hast nicht geantwortet.",
+        "translation": {
+          "en": "I wrote to you yesterday, but you did not answer.",
+          "ru": "Я написал тебе вчера, но ты не ответил."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ansehen",
@@ -117,7 +257,22 @@
       "en": "to look at, to watch",
       "ru": "смотреть, осматривать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er sieht sich den neuen Film im Kino an.",
+        "translation": {
+          "en": "He is watching the new movie in the cinema.",
+          "ru": "Он смотрит новый фильм в кинотеатре."
+        }
+      },
+      {
+        "sentence": "Gestern hat er sich das Fußballspiel angesehen.",
+        "translation": {
+          "en": "Yesterday he watched the football match.",
+          "ru": "Вчера он посмотрел футбольный матч."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ansprechen",
@@ -127,7 +282,22 @@
       "en": "to address, to speak to",
       "ru": "обращаться, заговаривать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Verkäufer spricht den Kunden freundlich an.",
+        "translation": {
+          "en": "The salesperson addresses the customer in a friendly manner.",
+          "ru": "Продавец дружелюбно обращается к клиенту."
+        }
+      },
+      {
+        "sentence": "Sie hat ihn auf der Party angesprochen.",
+        "translation": {
+          "en": "She spoke to him at the party.",
+          "ru": "Она заговорила с ним на вечеринке."
+        }
+      }
+    ]
   },
   {
     "infinitive": "anstoßen",
@@ -137,7 +307,22 @@
       "en": "to toast, to bump into",
       "ru": "чокаться, толкать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wir stoßen auf deinen Erfolg an.",
+        "translation": {
+          "en": "We are toasting to your success.",
+          "ru": "Мы чокаемся за твой успех."
+        }
+      },
+      {
+        "sentence": "Auf der Party haben wir auf das neue Jahr angestoßen.",
+        "translation": {
+          "en": "At the party, we toasted to the New Year.",
+          "ru": "На вечеринке мы чокнулись за Новый год."
+        }
+      }
+    ]
   },
   {
     "infinitive": "anziehen (sich)",
@@ -147,7 +332,22 @@
       "en": "to get dressed, to put on",
       "ru": "одеваться, надевать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er zieht sich schnell für die Arbeit an.",
+        "translation": {
+          "en": "He gets dressed quickly for work.",
+          "ru": "Он быстро одевается на работу."
+        }
+      },
+      {
+        "sentence": "Er hat sich schon seinen Mantel angezogen.",
+        "translation": {
+          "en": "He has already put on his coat.",
+          "ru": "Он уже надел свое пальто."
+        }
+      }
+    ]
   },
   {
     "infinitive": "aufessen",
@@ -157,7 +357,22 @@
       "en": "to eat up",
       "ru": "съедать, доедать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Iss deinen Teller auf, sonst gibt es keinen Nachtisch.",
+        "translation": {
+          "en": "Eat up your plate, otherwise there will be no dessert.",
+          "ru": "Доедай свою тарелку, иначе не будет десерта."
+        }
+      },
+      {
+        "sentence": "Sie hat alles aufgegessen, was auf dem Tisch stand.",
+        "translation": {
+          "en": "She ate up everything that was on the table.",
+          "ru": "Она съела все, что стояло на столе."
+        }
+      }
+    ]
   },
   {
     "infinitive": "auffallen",
@@ -167,7 +382,22 @@
       "en": "to stand out, to be noticeable",
       "ru": "бросаться в глаза, быть заметным"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Seine neue Frisur fällt sofort auf.",
+        "translation": {
+          "en": "His new hairstyle stands out immediately.",
+          "ru": "Его новая прическа сразу бросается в глаза."
+        }
+      },
+      {
+        "sentence": "Mir ist aufgefallen, dass du heute sehr leise bist.",
+        "translation": {
+          "en": "I noticed that you are very quiet today.",
+          "ru": "Я заметил, что ты сегодня очень тихий."
+        }
+      }
+    ]
   },
   {
     "infinitive": "aufgeben",
@@ -177,7 +407,22 @@
       "en": "to give up",
       "ru": "сдаваться, отказываться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er gibt nie auf, auch wenn es schwierig wird.",
+        "translation": {
+          "en": "He never gives up, even when it gets difficult.",
+          "ru": "Он никогда не сдаётся, даже когда становится трудно."
+        }
+      },
+      {
+        "sentence": "Nach vielen Versuchen hat er endlich aufgegeben.",
+        "translation": {
+          "en": "After many attempts, he finally gave up.",
+          "ru": "После многих попыток он наконец сдался."
+        }
+      }
+    ]
   },
   {
     "infinitive": "aufschlagen",
@@ -187,7 +432,22 @@
       "en": "to open (a book), to pitch (a tent)",
       "ru": "открывать (книгу), разбивать (палатку)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er schlägt das Buch auf Seite 50 auf.",
+        "translation": {
+          "en": "He opens the book to page 50.",
+          "ru": "Он открывает книгу на странице 50."
+        }
+      },
+      {
+        "sentence": "Er hat das Zelt am See aufgeschlagen.",
+        "translation": {
+          "en": "He pitched the tent by the lake.",
+          "ru": "Он разбил палатку у озера."
+        }
+      }
+    ]
   },
   {
     "infinitive": "aufstehen",
@@ -197,7 +457,22 @@
       "en": "to get up, to stand up",
       "ru": "вставать, подниматься"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er steht jeden Morgen um 6 Uhr auf.",
+        "translation": {
+          "en": "He gets up every morning at 6 o'clock.",
+          "ru": "Он встает каждое утро в 6 часов."
+        }
+      },
+      {
+        "sentence": "Gestern ist er sehr früh aufgestanden.",
+        "translation": {
+          "en": "Yesterday he got up very early.",
+          "ru": "Вчера он встал очень рано."
+        }
+      }
+    ]
   },
   {
     "infinitive": "auftreten",
@@ -217,7 +492,22 @@
       "en": "to go out",
       "ru": "выходить (гулять)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er geht heute Abend mit seinen Freunden aus.",
+        "translation": {
+          "en": "He is going out with his friends tonight.",
+          "ru": "Он идет гулять сегодня вечером со своими друзьями."
+        }
+      },
+      {
+        "sentence": "Gestern ist er spät ausgegangen.",
+        "translation": {
+          "en": "Yesterday he went out late.",
+          "ru": "Вчера он поздно вышел гулять."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ausleihen",
@@ -227,7 +517,22 @@
       "en": "to borrow, to lend",
       "ru": "брать взаймы, давать взаймы"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er leiht sich ein Buch aus der Bibliothek aus.",
+        "translation": {
+          "en": "He borrows a book from the library.",
+          "ru": "Он берет книгу в библиотеке."
+        }
+      },
+      {
+        "sentence": "Er hat sich gestern ein Buch ausgeliehen.",
+        "translation": {
+          "en": "He borrowed a book yesterday.",
+          "ru": "Вчера он взял книгу напрокат."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ausschlafen",
@@ -237,7 +542,22 @@
       "en": "to sleep in",
       "ru": "высыпаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Am Wochenende schläft er immer aus.",
+        "translation": {
+          "en": "On weekends, he always sleeps in.",
+          "ru": "По выходным он всегда высыпается."
+        }
+      },
+      {
+        "sentence": "Nach der langen Party hat er endlich ausgeschlafen.",
+        "translation": {
+          "en": "After the long party, he finally slept in.",
+          "ru": "После долгой вечеринки он наконец-то выспался."
+        }
+      }
+    ]
   },
   {
     "infinitive": "aussehen",
@@ -247,7 +567,22 @@
       "en": "to look, to appear",
       "ru": "выглядеть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Du siehst heute gut aus.",
+        "translation": {
+          "en": "You look good today.",
+          "ru": "Ты сегодня хорошо выглядишь."
+        }
+      },
+      {
+        "sentence": "Er hat müde ausgesehen.",
+        "translation": {
+          "en": "He looked tired.",
+          "ru": "Он выглядел уставшим."
+        }
+      }
+    ]
   },
   {
     "infinitive": "aussteigen",
@@ -267,7 +602,22 @@
       "en": "to take off (something), to move out",
       "ru": "снимать (что-либо), выезжать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er zieht seine nassen Schuhe aus.",
+        "translation": {
+          "en": "He is taking off his wet shoes.",
+          "ru": "Он снимает свои мокрые ботинки."
+        }
+      },
+      {
+        "sentence": "Sie hat den Pullover ausgezogen, weil ihr zu heiß war.",
+        "translation": {
+          "en": "She took off the sweater because she was too hot.",
+          "ru": "Она сняла свитер, потому что ей было слишком жарко."
+        }
+      }
+    ]
   },
   {
     "infinitive": "backen",
@@ -277,7 +627,22 @@
       "en": "to bake",
       "ru": "печь"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Meine Mutter bäckt einen leckeren Kuchen.",
+        "translation": {
+          "en": "My mother bakes a delicious cake.",
+          "ru": "Моя мама печет вкусный торт."
+        }
+      },
+      {
+        "sentence": "Gestern habe ich Brot gebacken.",
+        "translation": {
+          "en": "Yesterday I baked bread.",
+          "ru": "Вчера я испек хлеб."
+        }
+      }
+    ]
   },
   {
     "infinitive": "beginnen",
@@ -287,17 +652,22 @@
       "en": "to begin",
       "ru": "начинать"
     },
-    "examples": null
-  },
-  {
-    "infinitive": "bekommen",
-    "present": "er bekommt",
-    "past": "er hat bekommen",
-    "translation": {
-      "en": "to get, to receive",
-      "ru": "получать"
-    },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Unterricht beginnt um neun Uhr.",
+        "translation": {
+          "en": "The class begins at nine o'clock.",
+          "ru": "Урок начинается в девять часов."
+        }
+      },
+      {
+        "sentence": "Das Konzert hat schon begonnen.",
+        "translation": {
+          "en": "The concert has already begun.",
+          "ru": "Концерт уже начался."
+        }
+      }
+    ]
   },
   {
     "infinitive": "benutzen",
@@ -307,7 +677,22 @@
       "en": "to use",
       "ru": "использовать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er benutzt seinen Computer jeden Tag.",
+        "translation": {
+          "en": "He uses his computer every day.",
+          "ru": "Он пользуется своим компьютером каждый день."
+        }
+      },
+      {
+        "sentence": "Gestern hat er das alte Werkzeug benutzt.",
+        "translation": {
+          "en": "Yesterday he used the old tool.",
+          "ru": "Вчера он использовал старый инструмент."
+        }
+      }
+    ]
   },
   {
     "infinitive": "beraten",
@@ -317,7 +702,22 @@
       "en": "to advise",
       "ru": "советовать, консультировать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Experte berät den Kunden.",
+        "translation": {
+          "en": "The expert advises the customer.",
+          "ru": "Эксперт консультирует клиента."
+        }
+      },
+      {
+        "sentence": "Der Anwalt hat mich gut beraten.",
+        "translation": {
+          "en": "The lawyer advised me well.",
+          "ru": "Адвокат хорошо меня проконсультировал."
+        }
+      }
+    ]
   },
   {
     "infinitive": "beschließen",
@@ -327,12 +727,27 @@
       "en": "to decide",
       "ru": "решать, принимать решение"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Vorstand beschließt heute über die neue Strategie.",
+        "translation": {
+          "en": "The board decides on the new strategy today.",
+          "ru": "Сегодня правление принимает решение о новой стратегии."
+        }
+      },
+      {
+        "sentence": "Wir haben beschlossen, nächstes Jahr nach Italien zu reisen.",
+        "translation": {
+          "en": "We have decided to travel to Italy next year.",
+          "ru": "Мы решили поехать в Италию в следующем году."
+        }
+      }
+    ]
   },
   {
     "infinitive": "beschreiben",
-    "present": "er beschreibt",
-    "past": "er hat beschrieben",
+    "present": "",
+    "past": "",
     "translation": {
       "en": "to describe",
       "ru": "описывать"
@@ -347,7 +762,22 @@
       "en": "to discuss",
       "ru": "обсуждать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wir besprechen das Problem morgen.",
+        "translation": {
+          "en": "We will discuss the problem tomorrow.",
+          "ru": "Мы обсудим проблему завтра."
+        }
+      },
+      {
+        "sentence": "Wir haben das Thema bereits besprochen.",
+        "translation": {
+          "en": "We have already discussed the topic.",
+          "ru": "Мы уже обсудили эту тему."
+        }
+      }
+    ]
   },
   {
     "infinitive": "betragen",
@@ -357,7 +787,22 @@
       "en": "to amount to",
       "ru": "составлять (сумму)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die Rechnung beträgt 50 Euro.",
+        "translation": {
+          "en": "The bill amounts to 50 Euros.",
+          "ru": "Счет составляет 50 евро."
+        }
+      },
+      {
+        "sentence": "Der Schaden hat mehr als tausend Euro betragen.",
+        "translation": {
+          "en": "The damage amounted to more than a thousand Euros.",
+          "ru": "Ущерб составил более тысячи евро."
+        }
+      }
+    ]
   },
   {
     "infinitive": "betreiben",
@@ -367,7 +812,22 @@
       "en": "to operate, to run",
       "ru": "заниматься, вести (дело)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er betreibt ein kleines Café in der Innenstadt.",
+        "translation": {
+          "en": "He runs a small café in the city center.",
+          "ru": "Он управляет небольшим кафе в центре города."
+        }
+      },
+      {
+        "sentence": "Sie hat viele Jahre Forschung auf diesem Gebiet betrieben.",
+        "translation": {
+          "en": "She has conducted research in this field for many years.",
+          "ru": "Она много лет занималась исследованиями в этой области."
+        }
+      }
+    ]
   },
   {
     "infinitive": "betreten",
@@ -377,7 +837,22 @@
       "en": "to enter",
       "ru": "входить, ступать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Politiker betritt den Saal unter Applaus.",
+        "translation": {
+          "en": "The politician enters the hall to applause.",
+          "ru": "Политик входит в зал под аплодисменты."
+        }
+      },
+      {
+        "sentence": "Er hat das Büro zum ersten Mal betreten.",
+        "translation": {
+          "en": "He has entered the office for the first time.",
+          "ru": "Он впервые вошел в офис."
+        }
+      }
+    ]
   },
   {
     "infinitive": "bewerben (sich)",
@@ -387,7 +862,22 @@
       "en": "to apply",
       "ru": "подавать заявление (о приеме)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er bewirbt sich um die neue Stelle.",
+        "translation": {
+          "en": "He is applying for the new job.",
+          "ru": "Он подает заявление на новую должность."
+        }
+      },
+      {
+        "sentence": "Sie hat sich gestern für das Praktikum beworben.",
+        "translation": {
+          "en": "She applied for the internship yesterday.",
+          "ru": "Вчера она подала заявление на стажировку."
+        }
+      }
+    ]
   },
   {
     "infinitive": "bieten",
@@ -397,7 +887,22 @@
       "en": "to offer",
       "ru": "предлагать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das Unternehmen bietet seinen Mitarbeitern viele Vorteile.",
+        "translation": {
+          "en": "The company offers its employees many benefits.",
+          "ru": "Компания предлагает своим сотрудникам много преимуществ."
+        }
+      },
+      {
+        "sentence": "Er hat mir seine Hilfe geboten, aber ich habe abgelehnt.",
+        "translation": {
+          "en": "He offered me his help, but I declined.",
+          "ru": "Он предложил мне свою помощь, но я отказался."
+        }
+      }
+    ]
   },
   {
     "infinitive": "binden",
@@ -407,7 +912,22 @@
       "en": "to tie, to bind",
       "ru": "связывать, завязывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er bindet seine Krawatte für die Arbeit.",
+        "translation": {
+          "en": "He is tying his tie for work.",
+          "ru": "Он завязывает свой галстук для работы."
+        }
+      },
+      {
+        "sentence": "Sie hat einen Kranz aus wilden Blumen gebunden.",
+        "translation": {
+          "en": "She has bound a wreath of wild flowers.",
+          "ru": "Она сплела венок из полевых цветов."
+        }
+      }
+    ]
   },
   {
     "infinitive": "bitten",
@@ -417,7 +937,22 @@
       "en": "to ask, to request",
       "ru": "просить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er bittet um einen Gefallen.",
+        "translation": {
+          "en": "He is asking for a favor.",
+          "ru": "Он просит об одолжении."
+        }
+      },
+      {
+        "sentence": "Sie hat ihn um Hilfe gebeten.",
+        "translation": {
+          "en": "She asked him for help.",
+          "ru": "Она попросила его о помощи."
+        }
+      }
+    ]
   },
   {
     "infinitive": "bleiben",
@@ -427,7 +962,22 @@
       "en": "to stay",
       "ru": "оставаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er bleibt heute zu Hause.",
+        "translation": {
+          "en": "He is staying at home today.",
+          "ru": "Он остается сегодня дома."
+        }
+      },
+      {
+        "sentence": "Er ist gestern zu Hause geblieben.",
+        "translation": {
+          "en": "He stayed at home yesterday.",
+          "ru": "Он остался вчера дома."
+        }
+      }
+    ]
   },
   {
     "infinitive": "brechen",
@@ -437,7 +987,22 @@
       "en": "to break",
       "ru": "ломать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Junge bricht den Stock entzwei.",
+        "translation": {
+          "en": "The boy breaks the stick in two.",
+          "ru": "Мальчик ломает палку надвое."
+        }
+      },
+      {
+        "sentence": "Er hat sein Versprechen gebrochen.",
+        "translation": {
+          "en": "He has broken his promise.",
+          "ru": "Он нарушил свое обещание."
+        }
+      }
+    ]
   },
   {
     "infinitive": "brennen",
@@ -447,7 +1012,22 @@
       "en": "to burn",
       "ru": "гореть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das Feuer brennt hell im Kamin.",
+        "translation": {
+          "en": "The fire burns brightly in the fireplace.",
+          "ru": "Огонь ярко горит в камине."
+        }
+      },
+      {
+        "sentence": "Das alte Haus hat bis auf die Grundmauern gebrannt.",
+        "translation": {
+          "en": "The old house has burned to the ground.",
+          "ru": "Старый дом сгорел дотла."
+        }
+      }
+    ]
   },
   {
     "infinitive": "bringen",
@@ -457,7 +1037,22 @@
       "en": "to bring",
       "ru": "приносить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Kellner bringt die Rechnung.",
+        "translation": {
+          "en": "The waiter brings the bill.",
+          "ru": "Официант приносит счет."
+        }
+      },
+      {
+        "sentence": "Er hat seiner Freundin Blumen gebracht.",
+        "translation": {
+          "en": "He brought his girlfriend flowers.",
+          "ru": "Он принес своей девушке цветы."
+        }
+      }
+    ]
   },
   {
     "infinitive": "denken",
@@ -467,7 +1062,22 @@
       "en": "to think",
       "ru": "думать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er denkt oft an seine Zukunft.",
+        "translation": {
+          "en": "He often thinks about his future.",
+          "ru": "Он часто думает о своем будущем."
+        }
+      },
+      {
+        "sentence": "Ich habe gedacht, du kommst später.",
+        "translation": {
+          "en": "I thought you would come later.",
+          "ru": "Я думал, ты придёшь позже."
+        }
+      }
+    ]
   },
   {
     "infinitive": "dürfen",
@@ -477,7 +1087,22 @@
       "en": "to be allowed to, may",
       "ru": "мочь (иметь разрешение)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er darf heute Abend ins Kino gehen.",
+        "translation": {
+          "en": "He is allowed to go to the cinema tonight.",
+          "ru": "Ему разрешено пойти в кино сегодня вечером."
+        }
+      },
+      {
+        "sentence": "Als Kind durfte ich nicht lange aufbleiben.",
+        "translation": {
+          "en": "As a child, I was not allowed to stay up late.",
+          "ru": "В детстве мне не разрешали долго не ложиться спать."
+        }
+      }
+    ]
   },
   {
     "infinitive": "einladen",
@@ -487,7 +1112,22 @@
       "en": "to invite",
       "ru": "приглашать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er lädt seine Freunde zu seiner Geburtstagsparty ein.",
+        "translation": {
+          "en": "He invites his friends to his birthday party.",
+          "ru": "Он приглашает своих друзей на свой день рождения."
+        }
+      },
+      {
+        "sentence": "Sie hat mich gestern ins Kino eingeladen.",
+        "translation": {
+          "en": "She invited me to the cinema yesterday.",
+          "ru": "Она вчера пригласила меня в кино."
+        }
+      }
+    ]
   },
   {
     "infinitive": "einreiben",
@@ -497,7 +1137,22 @@
       "en": "to rub in",
       "ru": "втирать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Arzt reibt die Salbe in die Haut ein.",
+        "translation": {
+          "en": "The doctor rubs the ointment into the skin.",
+          "ru": "Врач втирает мазь в кожу."
+        }
+      },
+      {
+        "sentence": "Sie hat sich die Hände mit der Creme eingerieben.",
+        "translation": {
+          "en": "She rubbed the cream into her hands.",
+          "ru": "Она втерла крем в руки."
+        }
+      }
+    ]
   },
   {
     "infinitive": "entfallen",
@@ -507,7 +1162,22 @@
       "en": "to be cancelled, to slip one's mind",
       "ru": "выпадать (из памяти), отменяться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die morgige Vorlesung entfällt.",
+        "translation": {
+          "en": "Tomorrow's lecture is cancelled.",
+          "ru": "Завтрашняя лекция отменяется."
+        }
+      },
+      {
+        "sentence": "Das Treffen ist wegen Krankheit entfallen.",
+        "translation": {
+          "en": "The meeting was cancelled due to illness.",
+          "ru": "Встреча была отменена из-за болезни."
+        }
+      }
+    ]
   },
   {
     "infinitive": "entscheiden (sich)",
@@ -517,7 +1187,22 @@
       "en": "to decide",
       "ru": "решать, решаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er entscheidet sich heute für das rote Hemd.",
+        "translation": {
+          "en": "He decides on the red shirt today.",
+          "ru": "Сегодня он выбирает красную рубашку."
+        }
+      },
+      {
+        "sentence": "Er hat sich entschieden, das Angebot anzunehmen.",
+        "translation": {
+          "en": "He has decided to accept the offer.",
+          "ru": "Он решил принять это предложение."
+        }
+      }
+    ]
   },
   {
     "infinitive": "erfinden",
@@ -527,7 +1212,22 @@
       "en": "to invent",
       "ru": "изобретать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Wissenschaftler erfindet eine neue Maschine.",
+        "translation": {
+          "en": "The scientist invents a new machine.",
+          "ru": "Учёный изобретает новую машину."
+        }
+      },
+      {
+        "sentence": "Thomas Edison hat die Glühbirne erfunden.",
+        "translation": {
+          "en": "Thomas Edison invented the light bulb.",
+          "ru": "Томас Эдисон изобрёл лампочку."
+        }
+      }
+    ]
   },
   {
     "infinitive": "erschrecken (sich)",
@@ -537,7 +1237,22 @@
       "en": "to be frightened, to get a scare",
       "ru": "пугаться, испугаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Ich erschrecke mich oft, wenn ich alleine im Dunkeln bin.",
+        "translation": {
+          "en": "I often get scared when I'm alone in the dark.",
+          "ru": "Я часто пугаюсь, когда я один в темноте."
+        }
+      },
+      {
+        "sentence": "Sie hat sich erschrocken, als der Hund plötzlich bellte.",
+        "translation": {
+          "en": "She got a scare when the dog suddenly barked.",
+          "ru": "Она испугалась, когда собака внезапно залаяла."
+        }
+      }
+    ]
   },
   {
     "infinitive": "essen",
@@ -547,7 +1262,22 @@
       "en": "to eat",
       "ru": "есть, кушать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er isst einen Apfel.",
+        "translation": {
+          "en": "He is eating an apple.",
+          "ru": "Он ест яблоко."
+        }
+      },
+      {
+        "sentence": "Er hat den ganzen Kuchen gegessen.",
+        "translation": {
+          "en": "He ate the whole cake.",
+          "ru": "Он съел весь торт."
+        }
+      }
+    ]
   },
   {
     "infinitive": "fahren",
@@ -557,7 +1287,22 @@
       "en": "to drive, to go",
       "ru": "ехать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er fährt mit dem Auto zur Arbeit.",
+        "translation": {
+          "en": "He drives to work by car.",
+          "ru": "Он едет на работу на машине."
+        }
+      },
+      {
+        "sentence": "Er ist letztes Jahr nach Italien gefahren.",
+        "translation": {
+          "en": "He drove to Italy last year.",
+          "ru": "В прошлом году он ездил в Италию."
+        }
+      }
+    ]
   },
   {
     "infinitive": "fallen",
@@ -567,17 +1312,22 @@
       "en": "to fall",
       "ru": "падать"
     },
-    "examples": null
-  },
-  {
-    "infinitive": "fernsehen",
-    "present": "er sieht fern",
-    "past": "er hat ferngesehen",
-    "translation": {
-      "en": "to watch TV",
-      "ru": "смотреть телевизор"
-    },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Apfel fällt nicht weit vom Stamm.",
+        "translation": {
+          "en": "The apple doesn't fall far from the tree.",
+          "ru": "Яблоко от яблони недалеко падает."
+        }
+      },
+      {
+        "sentence": "Der Baum ist im Sturm gefallen.",
+        "translation": {
+          "en": "The tree fell during the storm.",
+          "ru": "Дерево упало во время шторма."
+        }
+      }
+    ]
   },
   {
     "infinitive": "feststehen",
@@ -587,7 +1337,22 @@
       "en": "to be certain, to be established",
       "ru": "быть установленным"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Es steht fest, dass wir morgen umziehen.",
+        "translation": {
+          "en": "It is certain that we are moving tomorrow.",
+          "ru": "Точно установлено, что завтра мы переезжаем."
+        }
+      },
+      {
+        "sentence": "Der Termin hat schon lange festgestanden.",
+        "translation": {
+          "en": "The date has been established for a long time.",
+          "ru": "Дата была установлена уже давно."
+        }
+      }
+    ]
   },
   {
     "infinitive": "finden",
@@ -597,7 +1362,22 @@
       "en": "to find",
       "ru": "находить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Ich finde meinen Schlüssel nicht.",
+        "translation": {
+          "en": "I can't find my keys.",
+          "ru": "Я не могу найти свои ключи."
+        }
+      },
+      {
+        "sentence": "Er hat endlich eine Lösung gefunden.",
+        "translation": {
+          "en": "He has finally found a solution.",
+          "ru": "Он наконец-то нашёл решение."
+        }
+      }
+    ]
   },
   {
     "infinitive": "fliegen",
@@ -607,7 +1387,22 @@
       "en": "to fly",
       "ru": "летать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Vogel fliegt hoch am Himmel.",
+        "translation": {
+          "en": "The bird flies high in the sky.",
+          "ru": "Птица летит высоко в небе."
+        }
+      },
+      {
+        "sentence": "Letzten Sommer ist er nach Spanien geflogen.",
+        "translation": {
+          "en": "Last summer he flew to Spain.",
+          "ru": "Прошлым летом он летал в Испанию."
+        }
+      }
+    ]
   },
   {
     "infinitive": "geben",
@@ -617,7 +1412,22 @@
       "en": "to give",
       "ru": "давать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er gibt seiner Schwester ein Buch.",
+        "translation": {
+          "en": "He gives his sister a book.",
+          "ru": "Он дает своей сестре книгу."
+        }
+      },
+      {
+        "sentence": "Er hat seiner Schwester ein Buch gegeben.",
+        "translation": {
+          "en": "He has given his sister a book.",
+          "ru": "Он дал своей сестре книгу."
+        }
+      }
+    ]
   },
   {
     "infinitive": "gefallen",
@@ -627,7 +1437,22 @@
       "en": "to please, to be liked",
       "ru": "нравиться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das neue Auto gefällt mir sehr.",
+        "translation": {
+          "en": "I like the new car very much.",
+          "ru": "Мне очень нравится новая машина."
+        }
+      },
+      {
+        "sentence": "Der Film hat uns gut gefallen.",
+        "translation": {
+          "en": "We liked the movie a lot.",
+          "ru": "Фильм нам очень понравился."
+        }
+      }
+    ]
   },
   {
     "infinitive": "gehen",
@@ -637,7 +1462,22 @@
       "en": "to go",
       "ru": "идти"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er geht jeden Tag zur Arbeit.",
+        "translation": {
+          "en": "He goes to work every day.",
+          "ru": "Он ходит на работу каждый день."
+        }
+      },
+      {
+        "sentence": "Er ist gestern ins Kino gegangen.",
+        "translation": {
+          "en": "He went to the cinema yesterday.",
+          "ru": "Он вчера ходил в кино."
+        }
+      }
+    ]
   },
   {
     "infinitive": "gelten",
@@ -647,7 +1487,22 @@
       "en": "to be valid",
       "ru": "считаться, быть действительным"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Diese Regel gilt für alle.",
+        "translation": {
+          "en": "This rule is valid for everyone.",
+          "ru": "Это правило действует для всех."
+        }
+      },
+      {
+        "sentence": "Die alte Regel hat bis letztes Jahr gegolten.",
+        "translation": {
+          "en": "The old rule was valid until last year.",
+          "ru": "Старое правило действовало до прошлого года."
+        }
+      }
+    ]
   },
   {
     "infinitive": "genießen",
@@ -657,7 +1512,22 @@
       "en": "to enjoy",
       "ru": "наслаждаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er genießt seinen Kaffee am Morgen.",
+        "translation": {
+          "en": "He enjoys his coffee in the morning.",
+          "ru": "Он наслаждается своим утренним кофе."
+        }
+      },
+      {
+        "sentence": "Wir haben den Sonnenuntergang am Strand genossen.",
+        "translation": {
+          "en": "We enjoyed the sunset on the beach.",
+          "ru": "Мы наслаждались закатом на пляже."
+        }
+      }
+    ]
   },
   {
     "infinitive": "gewinnen",
@@ -667,17 +1537,47 @@
       "en": "to win",
       "ru": "выигрывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die Heimmannschaft gewinnt das Spiel.",
+        "translation": {
+          "en": "The home team is winning the game.",
+          "ru": "Хозяева поля выигрывают игру."
+        }
+      },
+      {
+        "sentence": "Er hat eine Reise nach Paris gewonnen.",
+        "translation": {
+          "en": "He won a trip to Paris.",
+          "ru": "Он выиграл поездку в Париж."
+        }
+      }
+    ]
   },
   {
     "infinitive": "haben",
     "present": "er hat",
-    "past": "er hatte (Präteritum)",
+    "past": "er hatte",
     "translation": {
       "en": "to have",
       "ru": "иметь"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er hat ein neues Auto.",
+        "translation": {
+          "en": "He has a new car.",
+          "ru": "У него новая машина."
+        }
+      },
+      {
+        "sentence": "Er hatte gestern keine Zeit.",
+        "translation": {
+          "en": "He had no time yesterday.",
+          "ru": "У него вчера не было времени."
+        }
+      }
+    ]
   },
   {
     "infinitive": "halten",
@@ -687,7 +1587,22 @@
       "en": "to hold, to stop",
       "ru": "держать, останавливаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er hält den Stift in der Hand.",
+        "translation": {
+          "en": "He holds the pen in his hand.",
+          "ru": "Он держит ручку в руке."
+        }
+      },
+      {
+        "sentence": "Der Bus hat an der Haltestelle gehalten.",
+        "translation": {
+          "en": "The bus stopped at the bus stop.",
+          "ru": "Автобус остановился на остановке."
+        }
+      }
+    ]
   },
   {
     "infinitive": "heben",
@@ -697,7 +1612,22 @@
       "en": "to lift",
       "ru": "поднимать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er hebt die schwere Kiste.",
+        "translation": {
+          "en": "He lifts the heavy box.",
+          "ru": "Он поднимает тяжелую коробку."
+        }
+      },
+      {
+        "sentence": "Er hat die schwere Kiste gehoben.",
+        "translation": {
+          "en": "He has lifted the heavy box.",
+          "ru": "Он поднял тяжелую коробку."
+        }
+      }
+    ]
   },
   {
     "infinitive": "heißen",
@@ -707,7 +1637,22 @@
       "en": "to be called",
       "ru": "называться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Mein Freund heißt Peter.",
+        "translation": {
+          "en": "My friend is called Peter.",
+          "ru": "Моего друга зовут Петер."
+        }
+      },
+      {
+        "sentence": "Das Dorf hat früher Grünwald geheißen.",
+        "translation": {
+          "en": "The village was formerly called Grünwald.",
+          "ru": "Деревня раньше называлась Грюнвальд."
+        }
+      }
+    ]
   },
   {
     "infinitive": "helfen",
@@ -717,12 +1662,27 @@
       "en": "to help",
       "ru": "помогать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er hilft seiner Mutter im Garten.",
+        "translation": {
+          "en": "He helps his mother in the garden.",
+          "ru": "Он помогает своей маме в саду."
+        }
+      },
+      {
+        "sentence": "Er hat seiner Mutter im Garten geholfen.",
+        "translation": {
+          "en": "He helped his mother in the garden.",
+          "ru": "Он помог своей маме в саду."
+        }
+      }
+    ]
   },
   {
     "infinitive": "herunterladen",
-    "present": "er lädt herunter",
-    "past": "er hat heruntergeladen",
+    "present": "",
+    "past": "",
     "translation": {
       "en": "to download",
       "ru": "скачивать"
@@ -737,7 +1697,22 @@
       "en": "to fly there",
       "ru": "лететь туда"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wir fliegen im Urlaub nach Spanien hin.",
+        "translation": {
+          "en": "We are flying to Spain for the holidays.",
+          "ru": "Мы летим в отпуск в Испанию."
+        }
+      },
+      {
+        "sentence": "Er ist letzten Sommer nach Italien hingeflogen.",
+        "translation": {
+          "en": "He flew to Italy last summer.",
+          "ru": "Он летал в Италию прошлым летом."
+        }
+      }
+    ]
   },
   {
     "infinitive": "hinterlassen",
@@ -747,12 +1722,27 @@
       "en": "to leave behind",
       "ru": "оставлять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er hinterlässt eine Nachricht auf dem Tisch.",
+        "translation": {
+          "en": "He leaves a message on the table.",
+          "ru": "Он оставляет сообщение на столе."
+        }
+      },
+      {
+        "sentence": "Der Dieb hat keine Spuren hinterlassen.",
+        "translation": {
+          "en": "The thief left no traces behind.",
+          "ru": "Вор не оставил следов."
+        }
+      }
+    ]
   },
   {
     "infinitive": "hängen",
-    "present": "es hängt",
-    "past": "es hat gehangen",
+    "present": "",
+    "past": "",
     "translation": {
       "en": "to hang",
       "ru": "висеть"
@@ -767,7 +1757,22 @@
       "en": "to break down",
       "ru": "ломаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Mein alter Fernseher geht langsam kaputt.",
+        "translation": {
+          "en": "My old television is slowly breaking down.",
+          "ru": "Мой старый телевизор потихоньку ломается."
+        }
+      },
+      {
+        "sentence": "Die Waschmaschine ist gestern kaputtgegangen.",
+        "translation": {
+          "en": "The washing machine broke down yesterday.",
+          "ru": "Стиральная машина сломалась вчера."
+        }
+      }
+    ]
   },
   {
     "infinitive": "kennen",
@@ -777,7 +1782,22 @@
       "en": "to know",
       "ru": "знать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er kennt die Stadt sehr gut.",
+        "translation": {
+          "en": "He knows the city very well.",
+          "ru": "Он очень хорошо знает город."
+        }
+      },
+      {
+        "sentence": "Ich habe ihn schon lange gekannt.",
+        "translation": {
+          "en": "I have known him for a long time.",
+          "ru": "Я знал его уже давно."
+        }
+      }
+    ]
   },
   {
     "infinitive": "klingen",
@@ -787,7 +1807,22 @@
       "en": "to sound",
       "ru": "звучать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das klingt gut.",
+        "translation": {
+          "en": "That sounds good.",
+          "ru": "Это звучит хорошо."
+        }
+      },
+      {
+        "sentence": "Die Musik hat schön geklungen.",
+        "translation": {
+          "en": "The music sounded beautiful.",
+          "ru": "Музыка звучала прекрасно."
+        }
+      }
+    ]
   },
   {
     "infinitive": "kommen",
@@ -797,7 +1832,22 @@
       "en": "to come",
       "ru": "приходить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er kommt heute Abend zur Party.",
+        "translation": {
+          "en": "He is coming to the party tonight.",
+          "ru": "Он придёт сегодня вечером на вечеринку."
+        }
+      },
+      {
+        "sentence": "Sie ist gestern aus dem Urlaub gekommen.",
+        "translation": {
+          "en": "She came back from vacation yesterday.",
+          "ru": "Она вчера приехала из отпуска."
+        }
+      }
+    ]
   },
   {
     "infinitive": "können",
@@ -807,7 +1857,22 @@
       "en": "can, to be able to",
       "ru": "мочь, уметь"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er kann sehr gut schwimmen.",
+        "translation": {
+          "en": "He can swim very well.",
+          "ru": "Он умеет очень хорошо плавать."
+        }
+      },
+      {
+        "sentence": "Er konnte das Problem nicht lösen.",
+        "translation": {
+          "en": "He could not solve the problem.",
+          "ru": "Он не мог решить эту проблему."
+        }
+      }
+    ]
   },
   {
     "infinitive": "lassen",
@@ -817,7 +1882,22 @@
       "en": "to let, to leave",
       "ru": "оставлять, позволять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er lässt die Katze ins Haus.",
+        "translation": {
+          "en": "He lets the cat into the house.",
+          "ru": "Он впускает кошку в дом."
+        }
+      },
+      {
+        "sentence": "Er hat seine Schlüssel zu Hause gelassen.",
+        "translation": {
+          "en": "He has left his keys at home.",
+          "ru": "Он оставил свои ключи дома."
+        }
+      }
+    ]
   },
   {
     "infinitive": "laufen",
@@ -827,7 +1907,22 @@
       "en": "to run",
       "ru": "бежать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er läuft jeden Morgen im Park.",
+        "translation": {
+          "en": "He runs in the park every morning.",
+          "ru": "Он бегает в парке каждое утро."
+        }
+      },
+      {
+        "sentence": "Er ist gestern einen Marathon gelaufen.",
+        "translation": {
+          "en": "He ran a marathon yesterday.",
+          "ru": "Вчера он пробежал марафон."
+        }
+      }
+    ]
   },
   {
     "infinitive": "leidtun",
@@ -837,7 +1932,22 @@
       "en": "to be sorry",
       "ru": "сожалеть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Es tut mir leid, dass ich zu spät bin.",
+        "translation": {
+          "en": "I am sorry that I am late.",
+          "ru": "Мне жаль, что я опоздал."
+        }
+      },
+      {
+        "sentence": "Es hat ihm aufrichtig leidgetan, dich verletzt zu haben.",
+        "translation": {
+          "en": "He was genuinely sorry for hurting you.",
+          "ru": "Он искренне сожалел, что причинил тебе боль."
+        }
+      }
+    ]
   },
   {
     "infinitive": "lesen",
@@ -847,7 +1957,22 @@
       "en": "to read",
       "ru": "читать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er liest jeden Tag ein Buch.",
+        "translation": {
+          "en": "He reads a book every day.",
+          "ru": "Он каждый день читает книгу."
+        }
+      },
+      {
+        "sentence": "Er hat gestern das ganze Buch gelesen.",
+        "translation": {
+          "en": "He read the whole book yesterday.",
+          "ru": "Вчера он прочитал всю книгу."
+        }
+      }
+    ]
   },
   {
     "infinitive": "liegen",
@@ -857,7 +1982,22 @@
       "en": "to lie",
       "ru": "лежать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das Buch liegt auf dem Tisch.",
+        "translation": {
+          "en": "The book is lying on the table.",
+          "ru": "Книга лежит на столе."
+        }
+      },
+      {
+        "sentence": "Der Schlüssel lag auf dem Boden.",
+        "translation": {
+          "en": "The key lay on the floor.",
+          "ru": "Ключ лежал на полу."
+        }
+      }
+    ]
   },
   {
     "infinitive": "mitbringen",
@@ -867,7 +2007,22 @@
       "en": "to bring along",
       "ru": "приносить с собой"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er bringt immer einen Kuchen zur Party mit.",
+        "translation": {
+          "en": "He always brings a cake along to the party.",
+          "ru": "Он всегда приносит с собой торт на вечеринку."
+        }
+      },
+      {
+        "sentence": "Gestern hat er seine Freunde mitgebracht.",
+        "translation": {
+          "en": "Yesterday, he brought his friends along.",
+          "ru": "Вчера он привел с собой своих друзей."
+        }
+      }
+    ]
   },
   {
     "infinitive": "mitkommen",
@@ -877,7 +2032,22 @@
       "en": "to come along",
       "ru": "идти с кем-либо"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Kommst du heute mit ins Kino?",
+        "translation": {
+          "en": "Are you coming along to the cinema today?",
+          "ru": "Ты пойдешь сегодня с нами в кино?"
+        }
+      },
+      {
+        "sentence": "Schade, dass er gestern nicht mitgekommen ist.",
+        "translation": {
+          "en": "It's a pity he didn't come along yesterday.",
+          "ru": "Жаль, что он не пошел с нами вчера."
+        }
+      }
+    ]
   },
   {
     "infinitive": "mitnehmen",
@@ -887,7 +2057,22 @@
       "en": "to take with",
       "ru": "брать с собой"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er nimmt seinen Regenschirm mit.",
+        "translation": {
+          "en": "He takes his umbrella with him.",
+          "ru": "Он берет с собой свой зонт."
+        }
+      },
+      {
+        "sentence": "Er hat seinen Regenschirm mitgenommen.",
+        "translation": {
+          "en": "He took his umbrella with him.",
+          "ru": "Он взял с собой свой зонт."
+        }
+      }
+    ]
   },
   {
     "infinitive": "mögen",
@@ -897,17 +2082,22 @@
       "en": "to like",
       "ru": "любить, нравиться"
     },
-    "examples": null
-  },
-  {
-    "infinitive": "müssen",
-    "present": "er muss",
-    "past": "er musste (Präteritum)",
-    "translation": {
-      "en": "must, to have to",
-      "ru": "быть должным"
-    },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er mag Schokolade.",
+        "translation": {
+          "en": "He likes chocolate.",
+          "ru": "Он любит шоколад."
+        }
+      },
+      {
+        "sentence": "Als Kind mochte er Spinat nicht.",
+        "translation": {
+          "en": "As a child, he did not like spinach.",
+          "ru": "В детстве он не любил шпинат."
+        }
+      }
+    ]
   },
   {
     "infinitive": "nachschlagen",
@@ -917,7 +2107,22 @@
       "en": "to look up",
       "ru": "искать (в словаре)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wenn er ein Wort nicht kennt, schlägt er es im Wörterbuch nach.",
+        "translation": {
+          "en": "When he doesn't know a word, he looks it up in the dictionary.",
+          "ru": "Когда он не знает слова, он ищет его в словаре."
+        }
+      },
+      {
+        "sentence": "Er hat die Bedeutung des Wortes im Internet nachgeschlagen.",
+        "translation": {
+          "en": "He looked up the meaning of the word on the internet.",
+          "ru": "Он посмотрел значение этого слова в интернете."
+        }
+      }
+    ]
   },
   {
     "infinitive": "nehmen",
@@ -927,7 +2132,22 @@
       "en": "to take",
       "ru": "брать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er nimmt den Bus zur Arbeit.",
+        "translation": {
+          "en": "He takes the bus to work.",
+          "ru": "Он едет на работу на автобусе."
+        }
+      },
+      {
+        "sentence": "Er hat den letzten Keks genommen.",
+        "translation": {
+          "en": "He has taken the last cookie.",
+          "ru": "Он взял последнее печенье."
+        }
+      }
+    ]
   },
   {
     "infinitive": "nennen",
@@ -937,7 +2157,22 @@
       "en": "to name, to call",
       "ru": "называть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er nennt seinen Hund Bello.",
+        "translation": {
+          "en": "He calls his dog Bello.",
+          "ru": "Он называет свою собаку Белло."
+        }
+      },
+      {
+        "sentence": "Sie hat die wichtigsten Punkte genannt.",
+        "translation": {
+          "en": "She named the most important points.",
+          "ru": "Она назвала самые важные пункты."
+        }
+      }
+    ]
   },
   {
     "infinitive": "raten",
@@ -947,7 +2182,22 @@
       "en": "to advise, to guess",
       "ru": "советовать, угадывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Arzt rät ihm, mehr Sport zu treiben.",
+        "translation": {
+          "en": "The doctor advises him to do more sports.",
+          "ru": "Врач советует ему больше заниматься спортом."
+        }
+      },
+      {
+        "sentence": "Er hat mir geraten, das Buch zu lesen.",
+        "translation": {
+          "en": "He advised me to read the book.",
+          "ru": "Он посоветовал мне прочитать эту книгу."
+        }
+      }
+    ]
   },
   {
     "infinitive": "rufen",
@@ -957,7 +2207,22 @@
       "en": "to call, to shout",
       "ru": "звать, кричать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er ruft seinen Hund.",
+        "translation": {
+          "en": "He calls his dog.",
+          "ru": "Он зовет свою собаку."
+        }
+      },
+      {
+        "sentence": "Sie hat um Hilfe gerufen.",
+        "translation": {
+          "en": "She has called for help.",
+          "ru": "Она позвала на помощь."
+        }
+      }
+    ]
   },
   {
     "infinitive": "schlafen",
@@ -967,7 +2232,22 @@
       "en": "to sleep",
       "ru": "спать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das Baby schläft ruhig in seinem Bett.",
+        "translation": {
+          "en": "The baby sleeps peacefully in its bed.",
+          "ru": "Ребенок спокойно спит в своей кроватке."
+        }
+      },
+      {
+        "sentence": "Ich habe letzte Nacht sehr gut geschlafen.",
+        "translation": {
+          "en": "I slept very well last night.",
+          "ru": "Прошлой ночью я очень хорошо спал."
+        }
+      }
+    ]
   },
   {
     "infinitive": "schließen",
@@ -977,7 +2257,22 @@
       "en": "to close",
       "ru": "закрывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Laden schließt um 18 Uhr.",
+        "translation": {
+          "en": "The shop closes at 6 p.m.",
+          "ru": "Магазин закрывается в 18 часов."
+        }
+      },
+      {
+        "sentence": "Er hat die Tür geschlossen.",
+        "translation": {
+          "en": "He has closed the door.",
+          "ru": "Он закрыл дверь."
+        }
+      }
+    ]
   },
   {
     "infinitive": "schneiden",
@@ -987,7 +2282,22 @@
       "en": "to cut",
       "ru": "резать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Koch schneidet das Gemüse.",
+        "translation": {
+          "en": "The cook is cutting the vegetables.",
+          "ru": "Повар режет овощи."
+        }
+      },
+      {
+        "sentence": "Er hat sich in den Finger geschnitten.",
+        "translation": {
+          "en": "He cut his finger.",
+          "ru": "Он порезал себе палец."
+        }
+      }
+    ]
   },
   {
     "infinitive": "schreiben",
@@ -997,7 +2307,22 @@
       "en": "to write",
       "ru": "писать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er schreibt einen Brief an seine Mutter.",
+        "translation": {
+          "en": "He is writing a letter to his mother.",
+          "ru": "Он пишет письмо своей матери."
+        }
+      },
+      {
+        "sentence": "Er hat gestern einen langen Roman geschrieben.",
+        "translation": {
+          "en": "He wrote a long novel yesterday.",
+          "ru": "Вчера он написал длинный роман."
+        }
+      }
+    ]
   },
   {
     "infinitive": "schwimmen",
@@ -1007,7 +2332,22 @@
       "en": "to swim",
       "ru": "плавать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er schwimmt jeden Tag im See.",
+        "translation": {
+          "en": "He swims in the lake every day.",
+          "ru": "Он плавает в озере каждый день."
+        }
+      },
+      {
+        "sentence": "Gestern ist er eine Stunde geschwommen.",
+        "translation": {
+          "en": "Yesterday he swam for an hour.",
+          "ru": "Вчера он плавал один час."
+        }
+      }
+    ]
   },
   {
     "infinitive": "sehen",
@@ -1017,7 +2357,22 @@
       "en": "to see",
       "ru": "видеть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er sieht den Vogel im Baum.",
+        "translation": {
+          "en": "He sees the bird in the tree.",
+          "ru": "Он видит птицу на дереве."
+        }
+      },
+      {
+        "sentence": "Er hat den Film gestern gesehen.",
+        "translation": {
+          "en": "He saw the movie yesterday.",
+          "ru": "Он посмотрел этот фильм вчера."
+        }
+      }
+    ]
   },
   {
     "infinitive": "sein",
@@ -1027,7 +2382,22 @@
       "en": "to be",
       "ru": "быть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er ist ein guter Lehrer.",
+        "translation": {
+          "en": "He is a good teacher.",
+          "ru": "Он хороший учитель."
+        }
+      },
+      {
+        "sentence": "Er war gestern im Kino.",
+        "translation": {
+          "en": "He was at the cinema yesterday.",
+          "ru": "Вчера он был в кино."
+        }
+      }
+    ]
   },
   {
     "infinitive": "singen",
@@ -1037,7 +2407,22 @@
       "en": "to sing",
       "ru": "петь"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er singt ein schönes Lied.",
+        "translation": {
+          "en": "He sings a beautiful song.",
+          "ru": "Он поет красивую песню."
+        }
+      },
+      {
+        "sentence": "Er hat auf der Party gesungen.",
+        "translation": {
+          "en": "He sang at the party.",
+          "ru": "Он пел на вечеринке."
+        }
+      }
+    ]
   },
   {
     "infinitive": "sitzen",
@@ -1047,7 +2432,22 @@
       "en": "to sit",
       "ru": "сидеть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Mann sitzt auf dem Stuhl.",
+        "translation": {
+          "en": "The man is sitting on the chair.",
+          "ru": "Мужчина сидит на стуле."
+        }
+      },
+      {
+        "sentence": "Er hat den ganzen Tag am Schreibtisch gesessen.",
+        "translation": {
+          "en": "He sat at the desk all day.",
+          "ru": "Он весь день просидел за письменным столом."
+        }
+      }
+    ]
   },
   {
     "infinitive": "spazieren gehen",
@@ -1057,7 +2457,22 @@
       "en": "to go for a walk",
       "ru": "гулять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wir gehen jeden Abend im Park spazieren.",
+        "translation": {
+          "en": "We go for a walk in the park every evening.",
+          "ru": "Мы гуляем в парке каждый вечер."
+        }
+      },
+      {
+        "sentence": "Gestern ist er am See spazieren gegangen.",
+        "translation": {
+          "en": "Yesterday he went for a walk by the lake.",
+          "ru": "Вчера он гулял у озера."
+        }
+      }
+    ]
   },
   {
     "infinitive": "sprechen",
@@ -1067,7 +2482,22 @@
       "en": "to speak",
       "ru": "говорить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er spricht fließend Deutsch.",
+        "translation": {
+          "en": "He speaks German fluently.",
+          "ru": "Он свободно говорит по-немецки."
+        }
+      },
+      {
+        "sentence": "Er hat gestern mit dem Chef gesprochen.",
+        "translation": {
+          "en": "He spoke with the boss yesterday.",
+          "ru": "Он вчера говорил с начальником."
+        }
+      }
+    ]
   },
   {
     "infinitive": "stattfinden",
@@ -1077,7 +2507,22 @@
       "en": "to take place",
       "ru": "состояться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die Besprechung findet um 15 Uhr statt.",
+        "translation": {
+          "en": "The meeting takes place at 3 PM.",
+          "ru": "Совещание состоится в 15 часов."
+        }
+      },
+      {
+        "sentence": "Das Festival hat letztes Jahr stattgefunden.",
+        "translation": {
+          "en": "The festival took place last year.",
+          "ru": "Фестиваль состоялся в прошлом году."
+        }
+      }
+    ]
   },
   {
     "infinitive": "stehen",
@@ -1087,7 +2532,22 @@
       "en": "to stand",
       "ru": "стоять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Mann steht an der Bushaltestelle.",
+        "translation": {
+          "en": "The man is standing at the bus stop.",
+          "ru": "Мужчина стоит на автобусной остановке."
+        }
+      },
+      {
+        "sentence": "Er hat stundenlang in der Schlange gestanden.",
+        "translation": {
+          "en": "He stood in the queue for hours.",
+          "ru": "Он часами стоял в очереди."
+        }
+      }
+    ]
   },
   {
     "infinitive": "steigen",
@@ -1107,7 +2567,22 @@
       "en": "to die",
       "ru": "умирать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die alte Pflanze im Garten stirbt langsam.",
+        "translation": {
+          "en": "The old plant in the garden is slowly dying.",
+          "ru": "Старое растение в саду медленно умирает."
+        }
+      },
+      {
+        "sentence": "Sein Großvater ist letztes Jahr gestorben.",
+        "translation": {
+          "en": "His grandfather died last year.",
+          "ru": "Его дедушка умер в прошлом году."
+        }
+      }
+    ]
   },
   {
     "infinitive": "stoßen",
@@ -1117,7 +2592,22 @@
       "en": "to push, to bump",
       "ru": "толкать, ударять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er stößt sich den Kopf an der Lampe.",
+        "translation": {
+          "en": "He bumps his head on the lamp.",
+          "ru": "Он ударяется головой о лампу."
+        }
+      },
+      {
+        "sentence": "Er hat sich den Kopf an der Lampe gestoßen.",
+        "translation": {
+          "en": "He bumped his head on the lamp.",
+          "ru": "Он ударился головой о лампу."
+        }
+      }
+    ]
   },
   {
     "infinitive": "teilnehmen",
@@ -1127,7 +2617,22 @@
       "en": "to participate",
       "ru": "принимать участие"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er nimmt an der Konferenz teil.",
+        "translation": {
+          "en": "He is participating in the conference.",
+          "ru": "Он принимает участие в конференции."
+        }
+      },
+      {
+        "sentence": "Er hat am Wettbewerb teilgenommen.",
+        "translation": {
+          "en": "He participated in the competition.",
+          "ru": "Он принял участие в соревновании."
+        }
+      }
+    ]
   },
   {
     "infinitive": "tragen",
@@ -1137,7 +2642,22 @@
       "en": "to carry, to wear",
       "ru": "носить, нести"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Mann trägt einen Hut.",
+        "translation": {
+          "en": "The man wears a hat.",
+          "ru": "Мужчина носит шляпу."
+        }
+      },
+      {
+        "sentence": "Er hat die schwere Tasche getragen.",
+        "translation": {
+          "en": "He carried the heavy bag.",
+          "ru": "Он нёс тяжелую сумку."
+        }
+      }
+    ]
   },
   {
     "infinitive": "treffen",
@@ -1147,7 +2667,22 @@
       "en": "to meet",
       "ru": "встречать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er trifft seine Freunde im Park.",
+        "translation": {
+          "en": "He meets his friends in the park.",
+          "ru": "Он встречается со своими друзьями в парке."
+        }
+      },
+      {
+        "sentence": "Er hat seine Freunde im Park getroffen.",
+        "translation": {
+          "en": "He met his friends in the park.",
+          "ru": "Он встретил своих друзей в парке."
+        }
+      }
+    ]
   },
   {
     "infinitive": "trinken",
@@ -1157,12 +2692,27 @@
       "en": "to drink",
       "ru": "пить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er trinkt jeden Morgen Kaffee.",
+        "translation": {
+          "en": "He drinks coffee every morning.",
+          "ru": "Он пьёт кофе каждое утро."
+        }
+      },
+      {
+        "sentence": "Gestern hat er zu viel Wein getrunken.",
+        "translation": {
+          "en": "Yesterday he drank too much wine.",
+          "ru": "Вчера он выпил слишком много вина."
+        }
+      }
+    ]
   },
   {
     "infinitive": "tun",
-    "present": "er tut",
-    "past": "er hat getan",
+    "present": "",
+    "past": "",
     "translation": {
       "en": "to do",
       "ru": "делать"
@@ -1177,7 +2727,22 @@
       "en": "to change (trains, etc.)",
       "ru": "пересаживаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Am Hauptbahnhof steigt er in den Bus nach Berlin um.",
+        "translation": {
+          "en": "He changes to the bus to Berlin at the main station.",
+          "ru": "На главном вокзале он пересаживается на автобус до Берлина."
+        }
+      },
+      {
+        "sentence": "Er ist in München in den falschen Zug umgestiegen.",
+        "translation": {
+          "en": "He changed to the wrong train in Munich.",
+          "ru": "В Мюнхене он пересел не на тот поезд."
+        }
+      }
+    ]
   },
   {
     "infinitive": "umziehen",
@@ -1187,7 +2752,22 @@
       "en": "to move (house)",
       "ru": "переезжать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er zieht nächsten Monat in eine neue Wohnung um.",
+        "translation": {
+          "en": "He is moving to a new apartment next month.",
+          "ru": "Он переезжает в новую квартиру в следующем месяце."
+        }
+      },
+      {
+        "sentence": "Er ist letztes Jahr umgezogen.",
+        "translation": {
+          "en": "He moved last year.",
+          "ru": "Он переехал в прошлом году."
+        }
+      }
+    ]
   },
   {
     "infinitive": "unterbrechen",
@@ -1197,7 +2777,22 @@
       "en": "to interrupt",
       "ru": "прерывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Bitte unterbrich mich nicht, während ich spreche.",
+        "translation": {
+          "en": "Please don't interrupt me while I'm speaking.",
+          "ru": "Пожалуйста, не перебивай меня, когда я говорю."
+        }
+      },
+      {
+        "sentence": "Er hat das Meeting für einen wichtigen Anruf unterbrochen.",
+        "translation": {
+          "en": "He interrupted the meeting for an important call.",
+          "ru": "Он прервал встречу ради важного звонка."
+        }
+      }
+    ]
   },
   {
     "infinitive": "unterhalten (sich)",
@@ -1207,7 +2802,22 @@
       "en": "to converse, to entertain oneself",
       "ru": "беседовать, развлекаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er unterhält sich mit seinem Freund im Café.",
+        "translation": {
+          "en": "He is conversing with his friend in the café.",
+          "ru": "Он беседует со своим другом в кафе."
+        }
+      },
+      {
+        "sentence": "Wir haben uns auf der Party gut unterhalten.",
+        "translation": {
+          "en": "We had a good conversation at the party.",
+          "ru": "Мы хорошо побеседовали на вечеринке."
+        }
+      }
+    ]
   },
   {
     "infinitive": "unternehmen",
@@ -1217,7 +2827,22 @@
       "en": "to undertake",
       "ru": "предпринимать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er unternimmt eine Reise nach Japan.",
+        "translation": {
+          "en": "He is undertaking a trip to Japan.",
+          "ru": "Он предпринимает поездку в Японию."
+        }
+      },
+      {
+        "sentence": "Er hat eine Wanderung in den Alpen unternommen.",
+        "translation": {
+          "en": "He undertook a hike in the Alps.",
+          "ru": "Он предпринял поход в Альпы."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verbieten",
@@ -1227,7 +2852,22 @@
       "en": "to forbid",
       "ru": "запрещать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Arzt verbietet ihm das Rauchen.",
+        "translation": {
+          "en": "The doctor forbids him to smoke.",
+          "ru": "Врач запрещает ему курить."
+        }
+      },
+      {
+        "sentence": "Meine Mutter hat mir verboten, spät nach Hause zu kommen.",
+        "translation": {
+          "en": "My mother has forbidden me to come home late.",
+          "ru": "Моя мама запретила мне приходить домой поздно."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verbinden",
@@ -1237,7 +2877,22 @@
       "en": "to connect, to link",
       "ru": "соединять, связывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Ingenieur verbindet die beiden Drähte.",
+        "translation": {
+          "en": "The engineer connects the two wires.",
+          "ru": "Инженер соединяет два провода."
+        }
+      },
+      {
+        "sentence": "Er hat sein Hobby mit seinem Beruf verbunden.",
+        "translation": {
+          "en": "He has combined his hobby with his profession.",
+          "ru": "Он соединил своё хобби со своей профессией."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verbrennen",
@@ -1247,7 +2902,22 @@
       "en": "to burn",
       "ru": "сжигать, сгорать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die Sonne verbrennt seine Haut.",
+        "translation": {
+          "en": "The sun is burning his skin.",
+          "ru": "Солнце обжигает его кожу."
+        }
+      },
+      {
+        "sentence": "Das alte Foto ist im Feuer verbrannt.",
+        "translation": {
+          "en": "The old photo was burned in the fire.",
+          "ru": "Старая фотография сгорела в огне."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verbringen",
@@ -1257,7 +2927,22 @@
       "en": "to spend (time)",
       "ru": "проводить (время)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er verbringt viel Zeit mit seiner Familie.",
+        "translation": {
+          "en": "He spends a lot of time with his family.",
+          "ru": "Он проводит много времени со своей семьей."
+        }
+      },
+      {
+        "sentence": "Er hat seinen Urlaub in Italien verbracht.",
+        "translation": {
+          "en": "He spent his vacation in Italy.",
+          "ru": "Он провел свой отпуск в Италии."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vergehen",
@@ -1267,7 +2952,22 @@
       "en": "to pass (time)",
       "ru": "проходить (о времени)"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die Zeit vergeht so schnell.",
+        "translation": {
+          "en": "Time passes so quickly.",
+          "ru": "Время проходит так быстро."
+        }
+      },
+      {
+        "sentence": "Ein ganzes Jahr ist vergangen.",
+        "translation": {
+          "en": "A whole year has passed.",
+          "ru": "Прошёл целый год."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vergessen",
@@ -1277,7 +2977,22 @@
       "en": "to forget",
       "ru": "забывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er vergisst oft seine Schlüssel.",
+        "translation": {
+          "en": "He often forgets his keys.",
+          "ru": "Он часто забывает свои ключи."
+        }
+      },
+      {
+        "sentence": "Er hat seinen Regenschirm im Bus vergessen.",
+        "translation": {
+          "en": "He forgot his umbrella on the bus.",
+          "ru": "Он забыл свой зонт в автобусе."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vergleichen",
@@ -1287,7 +3002,22 @@
       "en": "to compare",
       "ru": "сравнивать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er vergleicht die Preise, bevor er etwas kauft.",
+        "translation": {
+          "en": "He compares the prices before he buys something.",
+          "ru": "Он сравнивает цены, прежде чем что-то купить."
+        }
+      },
+      {
+        "sentence": "Sie hat die beiden Bücher miteinander verglichen.",
+        "translation": {
+          "en": "She has compared the two books with each other.",
+          "ru": "Она сравнила обе книги друг с другом."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verlassen",
@@ -1297,7 +3027,22 @@
       "en": "to leave",
       "ru": "покидать, оставлять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er verlässt jeden Morgen um 7 Uhr das Haus.",
+        "translation": {
+          "en": "He leaves the house every morning at 7 o'clock.",
+          "ru": "Он выходит из дома каждое утро в 7 часов."
+        }
+      },
+      {
+        "sentence": "Sie hat ihn letztes Jahr verlassen.",
+        "translation": {
+          "en": "She left him last year.",
+          "ru": "Она покинула его в прошлом году."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verlieren",
@@ -1307,7 +3052,22 @@
       "en": "to lose",
       "ru": "терять, проигрывать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er verliert oft seine Schlüssel.",
+        "translation": {
+          "en": "He often loses his keys.",
+          "ru": "Он часто теряет свои ключи."
+        }
+      },
+      {
+        "sentence": "Er hat gestern sein Handy verloren.",
+        "translation": {
+          "en": "He lost his phone yesterday.",
+          "ru": "Он вчера потерял свой телефон."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verschlafen",
@@ -1317,7 +3077,22 @@
       "en": "to oversleep",
       "ru": "проспать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wenn mein Wecker nicht klingelt, verschlafe ich oft.",
+        "translation": {
+          "en": "If my alarm clock doesn't ring, I often oversleep.",
+          "ru": "Когда мой будильник не звонит, я часто просыпаю."
+        }
+      },
+      {
+        "sentence": "Ich habe verschlafen und den Bus verpasst.",
+        "translation": {
+          "en": "I overslept and missed the bus.",
+          "ru": "Я проспал и опоздал на автобус."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verschreiben",
@@ -1327,7 +3102,22 @@
       "en": "to prescribe, to miswrite",
       "ru": "прописывать (лекарство), делать описку"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Arzt verschreibt dem Patienten ein Medikament.",
+        "translation": {
+          "en": "The doctor prescribes the patient a medication.",
+          "ru": "Врач выписывает пациенту лекарство."
+        }
+      },
+      {
+        "sentence": "Der Arzt hat ihm ein starkes Schmerzmittel verschrieben.",
+        "translation": {
+          "en": "The doctor prescribed him a strong painkiller.",
+          "ru": "Врач прописал ему сильное обезболивающее."
+        }
+      }
+    ]
   },
   {
     "infinitive": "verstehen",
@@ -1337,7 +3127,22 @@
       "en": "to understand",
       "ru": "понимать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Ich glaube, er versteht die Aufgabe nicht.",
+        "translation": {
+          "en": "I think he doesn't understand the task.",
+          "ru": "Я думаю, он не понимает задание."
+        }
+      },
+      {
+        "sentence": "Er hat sofort verstanden, was zu tun ist.",
+        "translation": {
+          "en": "He immediately understood what needed to be done.",
+          "ru": "Он сразу понял, что нужно делать."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vertreiben",
@@ -1347,7 +3152,22 @@
       "en": "to drive away, to expel",
       "ru": "прогонять, изгонять"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Geruch vertreibt die Insekten.",
+        "translation": {
+          "en": "The smell drives away the insects.",
+          "ru": "Этот запах отгоняет насекомых."
+        }
+      },
+      {
+        "sentence": "Er hat den unerwünschten Gast aus dem Haus vertrieben.",
+        "translation": {
+          "en": "He drove the unwanted guest out of the house.",
+          "ru": "Он выгнал незваного гостя из дома."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vorbeifahren",
@@ -1357,7 +3177,22 @@
       "en": "to drive past",
       "ru": "проезжать мимо"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er fährt jeden Tag an unserem Haus vorbei.",
+        "translation": {
+          "en": "He drives past our house every day.",
+          "ru": "Он каждый день проезжает мимо нашего дома."
+        }
+      },
+      {
+        "sentence": "Gestern ist ein rotes Auto an der Schule vorbeigefahren.",
+        "translation": {
+          "en": "Yesterday a red car drove past the school.",
+          "ru": "Вчера красная машина проехала мимо школы."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vorbeilaufen",
@@ -1367,7 +3202,22 @@
       "en": "to run past",
       "ru": "пробегать мимо"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Jeden Morgen läuft er an meinem Fenster vorbei.",
+        "translation": {
+          "en": "Every morning he runs past my window.",
+          "ru": "Каждое утро он пробегает мимо моего окна."
+        }
+      },
+      {
+        "sentence": "Der Dieb ist an dem Polizisten vorbeigelaufen.",
+        "translation": {
+          "en": "The thief ran past the police officer.",
+          "ru": "Вор пробежал мимо полицейского."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vorkommen",
@@ -1377,7 +3227,22 @@
       "en": "to occur, to happen",
       "ru": "случаться, происходить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Es kommt vor, dass ich meinen Schlüssel vergesse.",
+        "translation": {
+          "en": "It happens that I forget my keys.",
+          "ru": "Случается, что я забываю свои ключи."
+        }
+      },
+      {
+        "sentence": "Es ist schon einmal vorgekommen, dass der Strom ausgefallen ist.",
+        "translation": {
+          "en": "It has happened before that the power went out.",
+          "ru": "Уже случалось, что отключалось электричество."
+        }
+      }
+    ]
   },
   {
     "infinitive": "vorlesen",
@@ -1387,7 +3252,22 @@
       "en": "to read aloud",
       "ru": "читать вслух"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Vater liest seinem Sohn eine Geschichte vor.",
+        "translation": {
+          "en": "The father reads a story aloud to his son.",
+          "ru": "Отец читает сыну историю вслух."
+        }
+      },
+      {
+        "sentence": "Gestern hat die Lehrerin den Schülern ein Gedicht vorgelesen.",
+        "translation": {
+          "en": "Yesterday, the teacher read a poem aloud to the students.",
+          "ru": "Вчера учительница прочитала ученикам стихотворение вслух."
+        }
+      }
+    ]
   },
   {
     "infinitive": "wachsen",
@@ -1397,7 +3277,22 @@
       "en": "to grow",
       "ru": "расти"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Baum wächst sehr schnell.",
+        "translation": {
+          "en": "The tree grows very fast.",
+          "ru": "Дерево растет очень быстро."
+        }
+      },
+      {
+        "sentence": "Er ist in diesem Jahr stark gewachsen.",
+        "translation": {
+          "en": "He has grown a lot this year.",
+          "ru": "Он сильно вырос в этом году."
+        }
+      }
+    ]
   },
   {
     "infinitive": "waschen",
@@ -1407,7 +3302,22 @@
       "en": "to wash",
       "ru": "мыть, стирать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er wäscht sein Auto am Wochenende.",
+        "translation": {
+          "en": "He washes his car on the weekend.",
+          "ru": "Он моет свою машину на выходных."
+        }
+      },
+      {
+        "sentence": "Er hat gestern die Wäsche gewaschen.",
+        "translation": {
+          "en": "He did the laundry yesterday.",
+          "ru": "Он вчера постирал белье."
+        }
+      }
+    ]
   },
   {
     "infinitive": "wehtun",
@@ -1417,17 +3327,22 @@
       "en": "to hurt",
       "ru": "болеть, причинять боль"
     },
-    "examples": null
-  },
-  {
-    "infinitive": "weitergehen",
-    "present": "es geht weiter",
-    "past": "es ist weitergegangen",
-    "translation": {
-      "en": "to go on, to continue",
-      "ru": "продолжать идти, продолжаться"
-    },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Mein Kopf tut weh.",
+        "translation": {
+          "en": "My head hurts.",
+          "ru": "У меня болит голова."
+        }
+      },
+      {
+        "sentence": "Der Sturz hat mir sehr wehgetan.",
+        "translation": {
+          "en": "The fall hurt me a lot.",
+          "ru": "Падение причинило мне сильную боль."
+        }
+      }
+    ]
   },
   {
     "infinitive": "wissen",
@@ -1437,7 +3352,22 @@
       "en": "to know",
       "ru": "знать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er weiß die Antwort.",
+        "translation": {
+          "en": "He knows the answer.",
+          "ru": "Он знает ответ."
+        }
+      },
+      {
+        "sentence": "Er hat die Antwort gewusst.",
+        "translation": {
+          "en": "He has known the answer.",
+          "ru": "Он знал ответ."
+        }
+      }
+    ]
   },
   {
     "infinitive": "wollen",
@@ -1447,7 +3377,22 @@
       "en": "to want",
       "ru": "хотеть"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er will ein neues Auto kaufen.",
+        "translation": {
+          "en": "He wants to buy a new car.",
+          "ru": "Он хочет купить новую машину."
+        }
+      },
+      {
+        "sentence": "Er wollte gestern ins Kino gehen.",
+        "translation": {
+          "en": "He wanted to go to the cinema yesterday.",
+          "ru": "Он хотел вчера пойти в кино."
+        }
+      }
+    ]
   },
   {
     "infinitive": "ziehen",
@@ -1457,7 +3402,22 @@
       "en": "to pull, to move",
       "ru": "тянуть, тащить, переезжать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er zieht in eine neue Wohnung.",
+        "translation": {
+          "en": "He is moving into a new apartment.",
+          "ru": "Он переезжает в новую квартиру."
+        }
+      },
+      {
+        "sentence": "Sie ist letzten Monat nach Hamburg gezogen.",
+        "translation": {
+          "en": "She moved to Hamburg last month.",
+          "ru": "Она переехала в Гамбург в прошлом месяце."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zunehmen",
@@ -1467,7 +3427,22 @@
       "en": "to increase, to gain weight",
       "ru": "увеличиваться, прибавлять в весе"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Die Bevölkerung der Stadt nimmt schnell zu.",
+        "translation": {
+          "en": "The city's population is increasing rapidly.",
+          "ru": "Население города быстро увеличивается."
+        }
+      },
+      {
+        "sentence": "Ich habe im Urlaub leider zugenommen.",
+        "translation": {
+          "en": "Unfortunately, I gained weight on vacation.",
+          "ru": "К сожалению, в отпуске я набрал вес."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurechtfinden (sich)",
@@ -1477,7 +3452,22 @@
       "en": "to find one's way around",
       "ru": "ориентироваться, разбираться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "In der neuen Stadt findet er sich schnell zurecht.",
+        "translation": {
+          "en": "He quickly finds his way around the new city.",
+          "ru": "В новом городе он быстро ориентируется."
+        }
+      },
+      {
+        "sentence": "Nach ein paar Tagen hat er sich in der neuen Umgebung zurechtgefunden.",
+        "translation": {
+          "en": "After a few days, he found his way around the new environment.",
+          "ru": "Через несколько дней он разобрался в новой обстановке."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurechtkommen",
@@ -1487,7 +3477,22 @@
       "en": "to cope, to get by",
       "ru": "справляться, обходиться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er kommt mit der neuen Situation gut zurecht.",
+        "translation": {
+          "en": "He is coping well with the new situation.",
+          "ru": "Он хорошо справляется с новой ситуацией."
+        }
+      },
+      {
+        "sentence": "Sie ist mit dem wenigen Geld gut zurechtgekommen.",
+        "translation": {
+          "en": "She managed well with the little money.",
+          "ru": "Она хорошо справилась с небольшим количеством денег."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurückbekommen (etw.)",
@@ -1497,7 +3502,22 @@
       "en": "to get back",
       "ru": "получать обратно"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Ich hoffe, ich bekomme mein Geld bald zurück.",
+        "translation": {
+          "en": "I hope I get my money back soon.",
+          "ru": "Надеюсь, я скоро получу свои деньги обратно."
+        }
+      },
+      {
+        "sentence": "Er hat das Buch, das er verliehen hatte, zurückbekommen.",
+        "translation": {
+          "en": "He got the book back that he had lent.",
+          "ru": "Он получил обратно книгу, которую одолжил."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurückdenken",
@@ -1507,7 +3527,22 @@
       "en": "to think back",
       "ru": "вспоминать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er denkt oft an seine Kindheit zurück.",
+        "translation": {
+          "en": "He often thinks back to his childhood.",
+          "ru": "Он часто вспоминает свое детство."
+        }
+      },
+      {
+        "sentence": "Er hat an die gute alte Zeit zurückgedacht.",
+        "translation": {
+          "en": "He thought back to the good old days.",
+          "ru": "Он вспомнил о старых добрых временах."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurückgehen",
@@ -1517,7 +3552,22 @@
       "en": "to go back",
       "ru": "возвращаться, идти назад"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Nach dem Urlaub geht er morgen zur Arbeit zurück.",
+        "translation": {
+          "en": "After the vacation, he goes back to work tomorrow.",
+          "ru": "После отпуска он завтра возвращается на работу."
+        }
+      },
+      {
+        "sentence": "Er ist nach Deutschland zurückgegangen, um seine Familie zu besuchen.",
+        "translation": {
+          "en": "He has gone back to Germany to visit his family.",
+          "ru": "Он вернулся в Германию, чтобы навестить свою семью."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurückkommen",
@@ -1527,7 +3577,22 @@
       "en": "to come back",
       "ru": "возвращаться"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Wann kommt er aus dem Urlaub zurück?",
+        "translation": {
+          "en": "When does he come back from vacation?",
+          "ru": "Когда он возвращается из отпуска?"
+        }
+      },
+      {
+        "sentence": "Er ist gestern spät nach Hause zurückgekommen.",
+        "translation": {
+          "en": "He came back home late yesterday.",
+          "ru": "Он вчера поздно вернулся домой."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurücknehmen (etw.)",
@@ -1537,7 +3602,22 @@
       "en": "to take back",
       "ru": "брать обратно"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Der Laden nimmt das defekte Gerät zurück.",
+        "translation": {
+          "en": "The store is taking the defective device back.",
+          "ru": "Магазин забирает неисправное устройство обратно."
+        }
+      },
+      {
+        "sentence": "Ich habe meine Worte zurückgenommen.",
+        "translation": {
+          "en": "I took my words back.",
+          "ru": "Я взял свои слова обратно."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zurückrufen",
@@ -1547,7 +3627,22 @@
       "en": "to call back",
       "ru": "перезванивать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er ruft mich später zurück.",
+        "translation": {
+          "en": "He will call me back later.",
+          "ru": "Он мне позже перезвонит."
+        }
+      },
+      {
+        "sentence": "Sie hat mich gestern Abend zurückgerufen.",
+        "translation": {
+          "en": "She called me back yesterday evening.",
+          "ru": "Она перезвонила мне вчера вечером."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zusammenhalten",
@@ -1557,7 +3652,22 @@
       "en": "to stick together",
       "ru": "держаться вместе"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "In schwierigen Zeiten halten wir als Familie immer zusammen.",
+        "translation": {
+          "en": "In difficult times, we always stick together as a family.",
+          "ru": "В трудные времена мы как семья всегда держимся вместе."
+        }
+      },
+      {
+        "sentence": "Die Mannschaft hat bis zum Ende fest zusammengehalten.",
+        "translation": {
+          "en": "The team stuck together firmly until the very end.",
+          "ru": "Команда крепко держалась вместе до самого конца."
+        }
+      }
+    ]
   },
   {
     "infinitive": "zusammenschlagen",
@@ -1567,7 +3677,22 @@
       "en": "to strike together, to knock together",
       "ru": "сшибать, бить"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er schlägt die Hände über dem Kopf zusammen.",
+        "translation": {
+          "en": "He clasps his hands over his head in despair.",
+          "ru": "Он в отчаянии всплескивает руками над головой."
+        }
+      },
+      {
+        "sentence": "Die Wellen haben das kleine Boot zusammengeschlagen.",
+        "translation": {
+          "en": "The waves smashed the small boat to pieces.",
+          "ru": "Волны разбили маленькую лодку."
+        }
+      }
+    ]
   },
   {
     "infinitive": "überfliegen",
@@ -1577,7 +3702,22 @@
       "en": "to fly over, to skim",
       "ru": "перелетать, пробегать глазами"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er überfliegt nur die Schlagzeilen der Zeitung.",
+        "translation": {
+          "en": "He only skims the headlines of the newspaper.",
+          "ru": "Он только пробегает глазами по заголовкам газеты."
+        }
+      },
+      {
+        "sentence": "Ich habe das Dokument nur kurz überflogen.",
+        "translation": {
+          "en": "I only briefly skimmed the document.",
+          "ru": "Я лишь бегло просмотрел документ."
+        }
+      }
+    ]
   },
   {
     "infinitive": "übernehmen",
@@ -1587,7 +3727,22 @@
       "en": "to take over",
       "ru": "брать на себя, перенимать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Er übernimmt die Verantwortung für das Projekt.",
+        "translation": {
+          "en": "He takes over the responsibility for the project.",
+          "ru": "Он берет на себя ответственность за проект."
+        }
+      },
+      {
+        "sentence": "Er hat die Firma von seinem Vater übernommen.",
+        "translation": {
+          "en": "He took over the company from his father.",
+          "ru": "Он перенял компанию от своего отца."
+        }
+      }
+    ]
   },
   {
     "infinitive": "übertragen",
@@ -1597,6 +3752,21 @@
       "en": "to transfer, to broadcast",
       "ru": "передавать, транслировать"
     },
-    "examples": null
+    "examples": [
+      {
+        "sentence": "Das Fernsehen überträgt das Spiel live.",
+        "translation": {
+          "en": "The television is broadcasting the game live.",
+          "ru": "Телевидение транслирует матч в прямом эфире."
+        }
+      },
+      {
+        "sentence": "Er hat die Krankheit auf seine Familie übertragen.",
+        "translation": {
+          "en": "He transmitted the disease to his family.",
+          "ru": "Он передал болезнь своей семье."
+        }
+      }
+    ]
   }
 ]
