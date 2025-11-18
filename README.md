@@ -40,8 +40,8 @@ make extract-verbs
 make add-verb-examples
 ```
 
-### Create Anki Cards (Not ready yet)
+### Create Anki Cards deck
 
 ```shell
-make create-anki-cards
+make ankicards
 ```
