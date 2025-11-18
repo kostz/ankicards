@@ -1,8 +1,6 @@
 # Ankicards
 
-Tool leverages LLM capability to extract German verbs out of schoolbook scans to lately create Anki cards for a private German language study.
-
-Schoolbook contains of irregular German verbs for levels A1 and A2, which are extracted, translated into English and Russian and enriched with a complete example sentences.
+Tool leverages LLM capability to extract German verbs out of schoolbook scans, enrich with LLM translations and examples, and create Anki cards for a private German language study.
 
 ## Data Fields
 
