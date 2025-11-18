@@ -3,6 +3,7 @@ package internal
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/npcnixel/genanki-go"
 	"go.uber.org/zap"
 	"os"
 	"path/filepath"
@@ -146,4 +147,113 @@ func (a *Application) AddVerbExamples() {
 	a.logger.Info("examples added",
 		zap.Int("total verbs", cnt),
 	)
+}
+
+func (a *Application) MakeAnkicards() {
+	var (
+		cnt int
+		lvl int
+	)
+	model := genanki.Model{
+		ID:   6,
+		Name: "German verbs",
+		Fields: []genanki.Field{
+			{Name: "infinitive"},
+			{Name: "english"},
+			{Name: "russian"},
+			{Name: "present"},
+			{Name: "past"},
+			{Name: "example1"},
+			{Name: "example1_en"},
+			{Name: "example2"},
+			{Name: "example2_en"},
+		},
+		Templates: []genanki.Template{
+			{
+				Name: "Card",
+				Qfmt: "{{infinitive}}",
+				Afmt: `<tr><td>{{english}}</td><td> / </td><td>{{russian}}</td></tr>
+</br></br>
+{{present}}
+</br>
+{{past}}
+</br></br>
+<tr><td>{{example1}}</td><td> / </td><td>{{example1_en}}</td></tr>
+</br></br>
+<tr><td>{{example2}}</td><td> / </td><td>{{example2_en}}</td></tr>`,
+			},
+		},
+	}
+	model.SetCSS(`
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: left;
+ color: black;
+ background-color: white;
+}`)
+
+	lvl = 1
+	for _, level := range Levels {
+		deck := genanki.StandardDeck(
+			fmt.Sprintf("German verbs %s", level),
+			"List of German verbs with details for given level",
+		)
+		for _, verb := range a.result[level] {
+			a.logger.Info(
+				fmt.Sprintf("%d/%d; %d/%d", lvl, len(Levels), cnt, len(a.result[level])),
+			)
+			data := []string{
+				verb.Infinitive,
+				verb.Translation.English,
+				verb.Translation.Russian,
+				verb.Present,
+				verb.Past,
+			}
+
+			data = append(data,
+				func(examples []*Example) []string {
+					res := make([]string, 4)
+					idx := 0
+					for _, e := range examples {
+						res[idx] = e.Sentence
+						res[idx+1] = e.Translation.English
+						idx += 2
+					}
+					return res
+				}(verb.Examples)...,
+			)
+
+			note := genanki.NewNote(
+				model.ID,
+				data,
+				[]string{
+					"infinitive",
+					"english",
+					"russian",
+					"present",
+					"past",
+					"example1",
+					"example1_en",
+					"example2",
+					"example2_en",
+				},
+			)
+			deck.AddNote(note)
+			cnt++
+		}
+
+		pkg := genanki.NewPackage([]*genanki.Deck{deck}).
+			AddModel(&model)
+		if err := pkg.WriteToFile(
+			filepath.Join(DataDirectory, fmt.Sprintf("%s.apkg", level)),
+		); err != nil {
+			a.logger.Info(
+				"Failed to write package",
+				zap.String("level", level),
+				zap.Error(err),
+			)
+		}
+		lvl++
+	}
 }
