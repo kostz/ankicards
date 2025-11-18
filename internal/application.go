@@ -151,14 +151,40 @@ func (a *Application) AddVerbExamples() {
 }
 
 func (a *Application) MakeAnkicards() {
-	model := genanki.StandardBasicModel("verbs")
+	var (
+		cnt int
+		lvl int
+	)
+	model := genanki.Model{
+		ID:   1,
+		Name: "German verbs",
+		Fields: []genanki.Field{
+			{Name: "infinitive"},
+			{Name: "english"},
+			{Name: "russian"},
+			{Name: "present"},
+			{Name: "past"},
+			{Name: "examples"},
+		},
+		Templates: []genanki.Template{
+			{
+				Name: "Card",
+				Qfmt: "{{infinitive}}",
+				Afmt: "{{english}}",
+			},
+		},
+	}
 
+	lvl = 1
 	for _, level := range Levels {
 		deck := genanki.StandardDeck(
 			fmt.Sprintf("German verbs %s", level),
 			"List of German verbs with details for given level",
 		)
 		for _, verb := range a.result[level] {
+			a.logger.Info(
+				fmt.Sprintf("%d/%d; %d/%d", lvl, len(Levels), cnt, len(a.result[level])),
+			)
 			note := genanki.NewNote(
 				model.ID,
 				[]string{
@@ -187,9 +213,11 @@ func (a *Application) MakeAnkicards() {
 				},
 			)
 			deck.AddNote(note)
-
+			cnt++
 		}
-		pkg := genanki.NewPackage([]*genanki.Deck{deck}).AddModel(model.Model)
+
+		pkg := genanki.NewPackage([]*genanki.Deck{deck}).
+			AddModel(&model)
 		if err := pkg.WriteToFile(
 			filepath.Join(DataDirectory, fmt.Sprintf("%s.apkg", level)),
 		); err != nil {
@@ -199,5 +227,6 @@ func (a *Application) MakeAnkicards() {
 				zap.Error(err),
 			)
 		}
+		lvl++
 	}
 }
