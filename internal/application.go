@@ -3,10 +3,12 @@ package internal
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/npcnixel/genanki-go"
 	"go.uber.org/zap"
 	"os"
 	"path/filepath"
 	"sort"
+	"strings"
 )
 
 const DataDirectory = "data"
@@ -146,4 +148,56 @@ func (a *Application) AddVerbExamples() {
 	a.logger.Info("examples added",
 		zap.Int("total verbs", cnt),
 	)
+}
+
+func (a *Application) MakeAnkicards() {
+	model := genanki.StandardBasicModel("verbs")
+
+	for _, level := range Levels {
+		deck := genanki.StandardDeck(
+			fmt.Sprintf("German verbs %s", level),
+			"List of German verbs with details for given level",
+		)
+		for _, verb := range a.result[level] {
+			note := genanki.NewNote(
+				model.ID,
+				[]string{
+					verb.Infinitive,
+					verb.Translation.English,
+					verb.Translation.Russian,
+					verb.Present,
+					verb.Past,
+					func(examples []*Example) string {
+						res := []string{}
+						for _, e := range examples {
+							res = append(res,
+								[]string{e.Sentence, e.Translation.English}...,
+							)
+						}
+						return strings.Join(res, "\n")
+					}(verb.Examples),
+				},
+				[]string{
+					"infinitive",
+					"english",
+					"russian",
+					"present",
+					"past",
+					"examples",
+				},
+			)
+			deck.AddNote(note)
+
+		}
+		pkg := genanki.NewPackage([]*genanki.Deck{deck}).AddModel(model.Model)
+		if err := pkg.WriteToFile(
+			filepath.Join(DataDirectory, fmt.Sprintf("%s.apkg", level)),
+		); err != nil {
+			a.logger.Info(
+				"Failed to write package",
+				zap.String("level", level),
+				zap.Error(err),
+			)
+		}
+	}
 }

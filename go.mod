@@ -1,6 +1,6 @@
 module github.com/kostz/ankicards
 
-go 1.22.9
+go 1.24.1
 
 require (
 	github.com/openai/openai-go v1.12.0
@@ -10,6 +10,8 @@ require (
 
 require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
+	github.com/mattn/go-sqlite3 v1.14.24 // indirect
+	github.com/npcnixel/genanki-go v0.0.0-20250325193428-ac876772e261 // indirect
 	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/stretchr/testify v1.9.0 // indirect
 	github.com/tidwall/gjson v1.14.4 // indirect

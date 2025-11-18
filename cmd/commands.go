@@ -38,9 +38,21 @@ var addVerbExamplesCmd = &cobra.Command{
 	},
 }
 
+var makeAnkicardsCmd = &cobra.Command{
+	Use: "makeAnkicards",
+	Run: func(cmd *cobra.Command, args []string) {
+		a := internal.NewApplication(
+			internal.WithLLM(),
+		)
+		a.LoadResult()
+		a.MakeAnkicards()
+	},
+}
+
 func init() {
 	rootCmd.AddCommand(extractVerbsFromImagesCmd)
 	rootCmd.AddCommand(addVerbExamplesCmd)
+	rootCmd.AddCommand(makeAnkicardsCmd)
 }
 
 func Execute() {

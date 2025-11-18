@@ -44,3 +44,6 @@ extract-verbs:
 
 add-verb-examples:
 	go run . addVerbExamples
+
+ankicards:
+	go run . makeAnkicards
